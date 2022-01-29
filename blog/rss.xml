@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Raymond's Site Blog</title>
+        <link>https://raymond-2006.github.io/blog</link>
+        <description>Raymond's Site Blog</description>
+        <lastBuildDate>Sun, 30 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://raymond-2006.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello! This is my Docusaurus website, I always wanted to have one, but I somehow managed to fail compiling the website and each time end up like trash, so I had to get help from @AdminRAT to help me compile a VuePress website which the archive is still available via https://raymond-1227.gitlab.io.]]></description>
+            <content:encoded><![CDATA[<p>Hello! This is my Docusaurus website, I always wanted to have one, but I somehow managed to fail compiling the website and each time end up like trash, so I had to get help from <a href="https://gitlab.com/AdminRAT" target="_blank" rel="noopener noreferrer">@AdminRAT</a> to help me compile a VuePress website which the archive is still available via <a href="https://raymond-1227.gitlab.io" target="_blank" rel="noopener noreferrer">https://raymond-1227.gitlab.io</a>.</p><p>You might ask why would I replace the VuePress website with Docusaurus? Well, it's simple:</p><ul><li>I don't like its design anymore</li><li>GitLab CI doesn't want to build the latest update</li><li>Too lazy to check what the problem was causing</li></ul><p>It might sound dumb to you, but that's the actual reason why I'm replacing the website.</p><p>So now I'm gonna continue all my work here, the old website will not be deleted and stay in a state of archive.</p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

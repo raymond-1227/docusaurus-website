@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://raymond-2006.github.io/blog</id>
+    <title>Raymond's Site Blog</title>
+    <updated>2022-01-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://raymond-2006.github.io/blog"/>
+    <subtitle>Raymond's Site Blog</subtitle>
+    <icon>https://raymond-2006.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://raymond-2006.github.io/blog/welcome"/>
+        <updated>2022-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! This is my Docusaurus website, I always wanted to have one, but I somehow managed to fail compiling the website and each time end up like trash, so I had to get help from @AdminRAT to help me compile a VuePress website which the archive is still available via https://raymond-1227.gitlab.io.]]></summary>
+        <content type="html"><![CDATA[<p>Hello! This is my Docusaurus website, I always wanted to have one, but I somehow managed to fail compiling the website and each time end up like trash, so I had to get help from <a href="https://gitlab.com/AdminRAT" target="_blank" rel="noopener noreferrer">@AdminRAT</a> to help me compile a VuePress website which the archive is still available via <a href="https://raymond-1227.gitlab.io" target="_blank" rel="noopener noreferrer">https://raymond-1227.gitlab.io</a>.</p><p>You might ask why would I replace the VuePress website with Docusaurus? Well, it's simple:</p><ul><li>I don't like its design anymore</li><li>GitLab CI doesn't want to build the latest update</li><li>Too lazy to check what the problem was causing</li></ul><p>It might sound dumb to you, but that's the actual reason why I'm replacing the website.</p><p>So now I'm gonna continue all my work here, the old website will not be deleted and stay in a state of archive.</p>]]></content>
+        <author>
+            <name>Raymond Hsu</name>
+            <uri>https://github.com/raymond-1227</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
