@@ -4,9 +4,19 @@
         <title>Raymond's Site Blog</title>
         <link>https://raymond-2006.github.io/blog</link>
         <description>Raymond's Site Blog</description>
-        <lastBuildDate>Sun, 30 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Some more stuff to talk about]]></title>
+            <link>https://raymond-2006.github.io/blog/some-stuff</link>
+            <guid>some-stuff</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey, as I guaranteed, I will be actually using the blogging area to post some random things.]]></description>
+            <content:encoded><![CDATA[<p>Hey, as I guaranteed, I will be actually using the blogging area to post some random things.</p>]]></content:encoded>
+            <category>stuff</category>
+            <category>life</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://raymond-2006.github.io/blog/welcome</link>
