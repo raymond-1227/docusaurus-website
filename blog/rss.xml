@@ -8,12 +8,12 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Some more stuff to talk about]]></title>
-            <link>https://raymond-2006.github.io/blog/some-stuff</link>
-            <guid>some-stuff</guid>
+            <title><![CDATA[Some words about my current life]]></title>
+            <link>https://raymond-2006.github.io/blog/current-life</link>
+            <guid>current-life</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hey, as I guaranteed, I will be actually using the blogging area to post some random things.]]></description>
-            <content:encoded><![CDATA[<p>Hey, as I guaranteed, I will be actually using the blogging area to post some random things.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Hey, as I guaranteed, I will be actually using the blogging area to post some random things.</p><p>So let's just talk about my current life. I live in a place where you know, exams decide your future school, therefore also decides what your future is.</p><p>I'd say I'm not a very good learner in school subjects considering I always get a B or B+ on most of the tests, which if you want good grades in order to go to a better school you need at least A or A+.</p><p>In Taiwan, most of the junior high school student take the "Comprehensive Assessment Program for Junior High School Students" exam in order to enter your desired school via open admissions (which yes it's called "open admissions" method but students still have to compare exam scores to see which school you're eligible, smh), and the exam is around just 80 days before it starts, so I DON'T KNOW GIVE ME ANSWERS TO THE EXAMS PLEASE.</p><p>Although the teachers will probably say you can enter whatever school you want, but in reality this is still Asian education, obviously your parents want to enter some really high score schools, this is honestly stressful for most of the students including me, if you're seriously expecting a student who doesn't do great at school subjects and make them get good grades right now then you're definitely on crack.</p><p>Whatever bye, I probably will not be too active in Minecraft or Roblox for now.</p>]]></content:encoded>
             <category>stuff</category>
             <category>life</category>
         </item>
