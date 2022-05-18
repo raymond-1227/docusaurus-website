@@ -15,7 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "raymond-2006", // Usually your GitHub org/user name.
   projectName: "raymond-2006.github.io", // Usually your repo name.
-  deploymentBranch: "main",
+  deploymentBranch: "gh-pages",
   trailingSlash: false,
 
   presets: [
