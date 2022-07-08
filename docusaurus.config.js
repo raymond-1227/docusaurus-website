@@ -13,9 +13,9 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "raymond-2006", // Usually your GitHub org/user name.
-  projectName: "raymond-2006.github.io", // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  organizationName: "raymond-1227", // Usually your GitHub org/user name.
+  projectName: "docusaurus-site", // Usually your repo name.
+  deploymentBranch: "main",
   trailingSlash: false,
 
   presets: [
