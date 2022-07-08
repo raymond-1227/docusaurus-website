@@ -107,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Raymond Hsu | Built with Docusaurus, not proudly powered by WordPress.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Raymond Hsu | Built with Docusaurus, not powered by WordPress.`,
       },
       prism: {
         theme: lightCodeTheme,

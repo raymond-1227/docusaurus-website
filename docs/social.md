@@ -16,7 +16,7 @@ I mostly use Discord, so if you're trying to contact me, please use Discord or F
 
 **Facebook**: [ush.dnomyar](https://facebook.com/ush.dnomyar)
 
-**Instagram**: [ush.dnomyar](https://instagram.com/ush.dnomyar)
+**Instagram**: [rhsu.jpg](https://instagram.com/rhsu.jpg)
 
 **Github**: [raymond-1227](https://github.com/raymond-1227)
 
