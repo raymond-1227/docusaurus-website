@@ -18,13 +18,13 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: Fusion Drive 2TB + Seagate HDD 6TB (For Time Machine)
 
-**RAM**: 24GB 2667 MHz DDR4 SO-DIMM (Apple 4GB x2 + Crucial 16GB x1)
+**RAM**: 24GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x1)
 
 **GPU**: AMD Radeon Pro 570X with 4GB GDDR5 Graphics Memory
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Monterey 12.3.1 | Windows 10 Enterprise 21H2 (Boot Camp)
+**Operating System**: macOS Monterey 12.4 | Windows 10 Enterprise 21H2 (Boot Camp)
 
 ### Computer Accessories
 
@@ -54,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
 
-**Operating System**: realme UI 2.0 (RMX2111_11_C.11) (Color OS 11 rebrand, based on Android 11)
+**Operating System**: realme UI 3.0 (RMX2111_11_F.02) (Color OS 12 rebrand, based on Android 12)
 
 ### Tablet
 
@@ -70,7 +70,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 15.4.1
+**Operating System**: iPadOS 15.5
 
 ## Camera Specs
 
