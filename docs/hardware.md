@@ -24,13 +24,13 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Monterey 12.4 | Windows 10 Enterprise 21H2 (Boot Camp)
+**Operating System**: macOS Ventura 13.0 | Windows 10 Enterprise 22H2 (Boot Camp)
 
 ### Computer Accessories
 
 **Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones)
 
-**Mouse**: Magic Mouse 2 (Yes I know people hate this a lot, but it has great scrolling features, at least I think it does) / Brandless Mouse (The RGB lighting in which the RGB light among which the blue light doesn't work anymore)
+**Mouse**: Magic Mouse 2 (Yes I know people hate this a lot, but it has great scrolling features, at least I think it does) / Phillips SPK7214 Silent Mouse
 
 **Headset**: AKG K702 Reference Studio Headset
 
@@ -54,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
 
-**Operating System**: realme UI 3.0 (RMX2111_11_F.02) (Color OS 12 rebrand, based on Android 12)
+**Operating System**: realme UI 3.0 (RMX2111_11_F.04) (ColorOS 12 rebrand, based on Android 12)
 
 ### Tablet
 
@@ -70,7 +70,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 15.5
+**Operating System**: iPadOS 16.1
 
 ## Camera Specs
 
@@ -88,4 +88,4 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: CompactFlash
 
-**Compatible Lens I Use**: EF 70-200mm f/2.8L IS II USM, EF 35mm f/1.4L USM
+**Lens I Use**: EF 70-200mm f/2.8L IS II USM, EF 35mm f/1.4L USM

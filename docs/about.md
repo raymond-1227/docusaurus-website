@@ -10,7 +10,7 @@ Hello, I'm Raymond. I'm just someone who loves discovering the world.
 
 - A he/him
 - Lives in Taiwan
-- Speaks Chinese
+- Speaks both English and Chinese
 
 ## Brief History
 
