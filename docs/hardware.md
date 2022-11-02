@@ -54,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
 
-**Operating System**: realme UI 3.0 (RMX2111_11_F.04) (ColorOS 12 rebrand, based on Android 12)
+**Operating System**: realme UI 3.0 (RMX2111_11_F.05) (ColorOS 12 rebrand, based on Android 12)
 
 ### Tablet
 
