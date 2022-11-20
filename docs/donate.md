@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Donate
 
-Well yes Raymond, keep dreaming. No one's gonna donate you.
+Well obviously Raymond, keep dreaming. No one's gonna donate you.
 
 ## Info
 

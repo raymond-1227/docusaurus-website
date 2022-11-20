@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Ventura 13.0 | Windows 10 Enterprise 22H2 (Boot Camp)
+**Operating System**: macOS Ventura 13.0.1 | Windows 10 Enterprise 22H2 (Boot Camp)
 
 ### Computer Accessories
 
