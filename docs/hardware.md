@@ -18,7 +18,7 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: Fusion Drive 2TB + Seagate HDD 6TB (For Time Machine)
 
-**RAM**: 24GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x1)
+**RAM**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
 
 **GPU**: AMD Radeon Pro 570X with 4GB GDDR5 Graphics Memory
 
@@ -30,9 +30,11 @@ Here are the computer and phone specs which I use every day.
 
 **Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones)
 
-**Mouse**: Magic Mouse 2 (Yes I know people hate this a lot, but it has great scrolling features, at least I think it does) / Phillips SPK7214 Silent Mouse
+**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it has great scrolling features, at least I think it does) / Phillips SPK7214 Silent Mouse
 
 **Headset**: AKG K702 Reference Studio Headset
+
+**DAC**: NuForce Icon HDP
 
 **Microphone**: Zoom H4n Handy Recorder
 
