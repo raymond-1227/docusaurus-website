@@ -4,13 +4,14 @@ sidebar_position: 1
 
 # About Me
 
-Hello, I'm Raymond. I'm just someone who loves discovering the world.
+Hello, I'm Raymond. I'm just someone who loves discovering anything in the world, specifically via the world wide web.
 
 ## Brief Information
 
 - A he/him
 - Lives in Taiwan
-- Speaks both English and Chinese
+- Speaks both English (currently B2) and Chinese fluently
+- Loves to code, design, video edits, and play games
 
 ## Brief History
 

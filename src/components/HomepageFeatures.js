@@ -23,7 +23,7 @@ const FeatureList = [
     title: "Changelog",
     description: (
       <>
-        Jul 16, 2022: Updated a few elements, and OS build.
+        Jan 12, 2023: I should fix this website.
       </>
     ),
   },

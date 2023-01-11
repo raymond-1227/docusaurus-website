@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Ventura 13.0.1 | Windows 10 Enterprise 22H2 (Boot Camp)
+**Operating System**: macOS Ventura 13.1 | Windows 10 Enterprise 22H2 (Boot Camp)
 
 ### Computer Accessories
 
@@ -40,7 +40,7 @@ Here are the computer and phone specs which I use every day.
 
 ## Mobile Specs
 
-### Phone
+### Phone 1
 
 **Model**: realme 7 5G (RMX2111)
 
@@ -52,11 +52,29 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: ROM 128GB (UFS 2.1) + SD Card 64GB
 
-**GPU**: Mali-G57 MC3
+**GPU**: Arm Mali-G57 MC3
 
 **Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
 
-**Operating System**: realme UI 3.0 (RMX2111_11_F.05) (ColorOS 12 rebrand, based on Android 12)
+**Operating System**: realme UI 3.0 (ColorOS 12 rebrand, based on Android 12)
+
+### Phone 2
+
+**Model**: OPPO A77 5G (CPH2339)
+
+**Year of Manufacture**: Mid 2022
+
+**CPU**: MediaTek MT6833P Dimensity 810 (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+
+**RAM**: 4GB 3733 MHz LPDDR4X
+
+**Storage**: ROM 64GB (UFS 2.1) + SD Card 32GB
+
+**GPU**: Arm Mali-G57 MC2
+
+**Camera**: Rear (48 MP Main, 2 MP Depth) + Selfie (8 MP)
+
+**Operating System**: ColorOS 13.0 (Based on Android 13)
 
 ### Tablet
 
@@ -90,4 +108,4 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: CompactFlash
 
-**Lens I Use**: EF 70-200mm f/2.8L IS II USM, EF 35mm f/1.4L USM
+**Lens**: EF 35mm f/1.4L USM

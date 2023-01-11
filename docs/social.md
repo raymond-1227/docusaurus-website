@@ -6,7 +6,7 @@ sidebar_position: 3
 
 I mostly use Discord, so if you're trying to contact me, please use Discord or Facebook Messenger.
 
-This list is also available in a Linktree style, [click here](https://raymond-1227.github.io/social) to check out!
+This list is also available in a Linktree style (but I designed the website since these Linktree-like services are getting more like pay-to-win services), [click here](https://raymond-1227.github.io/social) to check out!
 
 ## Links
 
