@@ -16,11 +16,11 @@ Here are the computer and phone specs which I use every day.
 
 **CPU**: Intel Core i5-8500
 
-**Storage**: Fusion Drive 2TB + Seagate HDD 6TB (For Time Machine)
+**GPU**: AMD Radeon Pro 570X with 4GB GDDR5 Graphics Memory
 
 **RAM**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
 
-**GPU**: AMD Radeon Pro 570X with 4GB GDDR5 Graphics Memory
+**Storage**: Fusion Drive 2TB + Seagate HDD 6TB (For Time Machine)
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
@@ -48,11 +48,11 @@ Here are the computer and phone specs which I use every day.
 
 **CPU**: MediaTek MT6853 Dimensity 800U (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
 
+**GPU**: Arm Mali-G57 MC3
+
 **RAM**: 8GB 2133 MHz LPDDR4X
 
 **Storage**: ROM 128GB (UFS 2.1) + SD Card 64GB
-
-**GPU**: Arm Mali-G57 MC3
 
 **Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
 
@@ -66,11 +66,11 @@ Here are the computer and phone specs which I use every day.
 
 **CPU**: MediaTek MT6833P Dimensity 810 (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
 
+**GPU**: Arm Mali-G57 MC2
+
 **RAM**: 4GB 3733 MHz LPDDR4X
 
 **Storage**: ROM 64GB (UFS 2.1) + SD Card 32GB
-
-**GPU**: Arm Mali-G57 MC2
 
 **Camera**: Rear (48 MP Main, 2 MP Depth) + Selfie (8 MP)
 
