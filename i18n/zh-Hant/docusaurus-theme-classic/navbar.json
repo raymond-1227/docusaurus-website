@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Raymond 的廢話小窩",
+    "description": "The title in the navbar"
+  },
+  "item.label.About": {
+    "message": "關於",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Blog": {
+    "message": "部落格",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Main Website": {
+    "message": "主網站",
+    "description": "Navbar item with label Main Website"
+  }
+}

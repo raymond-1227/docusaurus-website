@@ -1,0 +1,46 @@
+{
+  "link.title.Category": {
+    "message": "分類",
+    "description": "The title of the footer links column with title=Category in the footer"
+  },
+  "link.title.Featured Projects": {
+    "message": "精選作品",
+    "description": "The title of the footer links column with title=Featured Projects in the footer"
+  },
+  "link.title.More": {
+    "message": "更多",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.About": {
+    "message": "關於",
+    "description": "The label of footer link with label=About linking to /docs/about"
+  },
+  "link.item.label.Blog": {
+    "message": "部落格",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.Firefox Add-on - PTE": {
+    "message": "Firefox 外掛 - PTE",
+    "description": "The label of footer link with label=Firefox Add-on - PTE linking to https://addons.mozilla.org/firefox/addon/page-text-editor/"
+  },
+  "link.item.label.OS Concept - #TeamCompound": {
+    "message": "作業系統概念 - #TeamCompound",
+    "description": "The label of footer link with label=OS Concept - #TeamCompound linking to https://teamcompound.github.io/"
+  },
+  "link.item.label.Discord Bot - hackerman14": {
+    "message": "Discord 機器人 - hackerman14",
+    "description": "The label of footer link with label=Discord Bot - hackerman14 linking to https://hackerman14.github.io/"
+  },
+  "link.item.label.Main Website": {
+    "message": "主網站",
+    "description": "The label of footer link with label=Main Website linking to https://raymond-1227.github.io/"
+  },
+  "link.item.label.Old Website": {
+    "message": "舊網站",
+    "description": "The label of footer link with label=Old Website linking to https://raymond-1227.gitlab.io/"
+  },
+  "copyright": {
+    "message": "© 2023 Raymond Hsu 版權一切所有 | 基於 Docusaurus，而非 WordPress。",
+    "description": "The footer copyright"
+  }
+}

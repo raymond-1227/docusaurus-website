@@ -17,7 +17,18 @@ const config = {
   projectName: "docusaurus-site", // Usually your repo name.
   deploymentBranch: "main",
   trailingSlash: false,
-
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hant"],
+    localeConfigs: {
+      en: {
+        label: "English",
+      },
+      "zh-Hant": {
+        label: "繁體中文",
+      }
+    }
+  },
   presets: [
     [
       "classic",
@@ -56,6 +67,10 @@ const config = {
           {
             href: "https://raymond-1227.github.io",
             label: "Main Website",
+            position: "right",
+          },
+          {
+            type: "localeDropdown",
             position: "right",
           },
         ],
