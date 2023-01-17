@@ -15,7 +15,7 @@ function HomepageHeader() {
           <Translate id="homepage.Title">Raymond's Site</Translate>
         </h1>
         <p className="hero__subtitle">
-          <Translate id="homepage.Title">
+          <Translate id="homepage.Subtitle">
             Just someone who doesn't know how to code properly.
           </Translate>
         </p>

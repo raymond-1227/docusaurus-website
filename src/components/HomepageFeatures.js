@@ -1,30 +1,27 @@
 import React from "react";
 import clsx from "clsx";
+import Translate, { translate } from "@docusaurus/Translate";
 import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
   {
-    title: "Docusaurus 2 Was Here",
+    title: <Translate id="blockTitle_1">Docusaurus 2 Was Here</Translate>,
     description: (
-      <>
-        Just a website designed all in Docusaurus 2.
-      </>
+      <Translate id="blockDesc_1">Just a website designed all in Docusaurus 2.</Translate>
     ),
   },
   {
-    title: "Cool Placeholder",
+    title: <Translate id="blockTitle_2">Cool Placeholder</Translate>,
     description: (
-      <>
+      <Translate id="blockDesc_2">
         Not deleting this in case I need to feature something here.
-      </>
+      </Translate>
     ),
   },
   {
-    title: "Changelog",
+    title: <Translate id="blockTitle_3">Changelog</Translate>,
     description: (
-      <>
-        Jan 12, 2023: I should fix this website.
-      </>
+      <Translate id="blockDesc_3">Jan 12, 2023: I should fix this website.</Translate>
     ),
   },
 ];

@@ -267,6 +267,27 @@
     "description": "The title of the tag list page"
   },
   "homepage.Title": {
-    "message": "Just someone who doesn't know how to code properly."
+    "message": "Raymond 的網站"
+  },
+  "homepage.Subtitle": {
+    "message": "我只是個無法寫出正常程式碼的普通人。"
+  },
+  "blockTitle_1": {
+    "message": "Docusaurus 2 厎加"
+  },
+  "blockDesc_1": {
+    "message": "單純是個基於 Docusaurus 2 所設計的網站。"
+  },
+  "blockTitle_2": {
+    "message": "很酷的預留空間"
+  },
+  "blockDesc_2": {
+    "message": "我還不知道要放什麼所以先預留。"
+  },
+  "blockTitle_3": {
+    "message": "變更日誌"
+  },
+  "blockDesc_3": {
+    "message": "Jan 17, 2023: 新增了繁體中文語言支援。"
   }
 }
