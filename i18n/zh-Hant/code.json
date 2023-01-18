@@ -4,7 +4,7 @@
     "description": "The label for the link to the about page"
   },
   "theme.ErrorPageContent.title": {
-    "message": "此頁已當機。",
+    "message": "此頁壞了。",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
@@ -20,7 +20,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "請聯絡原始連結來源網站的所有者，並通知他們連結已毀損。",
+    "message": "請聯絡原始連結來源網站的擁有者，並告知他們連結有問題。",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
@@ -92,11 +92,11 @@
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "切換淺色/暗黑模式（當前為{mode}）",
+    "message": "切換淺色/深色模式（當前為{mode}）",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "暗黑模式",
+    "message": "深色模式",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
@@ -143,7 +143,7 @@
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "此為 {siteTitle} {versionLabel} 版的文件，現已不再積極維護。",
+    "message": "此為 {siteTitle} {versionLabel} 版的文件，現已不再進行維護。",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
@@ -195,7 +195,7 @@
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "複製代碼至剪貼簿",
+    "message": "複製程式碼至剪貼簿",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.copy": {
@@ -247,7 +247,7 @@
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
+    "message": "開合側邊欄",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.sidebar.expandButtonTitle": {
