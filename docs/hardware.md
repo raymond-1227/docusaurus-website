@@ -106,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 17.0 Public Beta 3
+**Operating System**: iPadOS 17.0 Public Beta
 
 ## Camera Specs
 
