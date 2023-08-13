@@ -10,7 +10,7 @@ Hello, I'm Raymond. I'm just someone who loves discovering anything in the world
 
 - A he/him
 - Lives in Taiwan
-- Speaks both English (currently B2) and Chinese fluently
+- Speaks both English (currently B2) and Chinese fluently (ignore the fact my chinese exam scores are like pretty bad lol)
 - Loves to code, design, video edits, and play games
 
 ## Brief History

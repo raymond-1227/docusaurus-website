@@ -8,6 +8,6 @@ sidebar_position: 4
 
 ## Info
 
-我目前是沒有任何銀行帳戶的，所以我基本上是無法接受現金捐款的。不過如果你真的想捐什麼給我，你可以給我虛擬物品，例如 Discord Nitro、Steam 遊戲等。
+嚴格來說你可以用 PayPal.me 捐款給我，不過如果你也可以給我虛擬物品，例如 Discord Nitro、Steam 遊戲等。
 
 不過你要確定真的會有人捐半毛錢給我嗎？

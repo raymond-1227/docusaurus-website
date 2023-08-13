@@ -10,9 +10,9 @@ sidebar_position: 3
 
 ## 連結
 
-**Discord**: [Raymond#2829](https://discord.gg/sZmg77n5EC)
+**Discord**: [rhsu](https://discord.gg/sZmg77n5EC)
 
-**Twitter**: [@RaymondTheOof](https://twitter.com/RaymondTheOof)
+**Twitter (aka X)**: [RaymondTheOof](https://twitter.com/RaymondTheOof)
 
 **YouTube**: [RaymondHsu](https://youtube.com/RaymondHsu)
 

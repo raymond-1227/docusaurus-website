@@ -76,9 +76,9 @@ Here are the computer and phone specs which I use every day.
 
 **作業系統**: ColorOS 13.0 （基於 Android 13）
 
-### 平板電腦
+### 平板電腦 1
 
-**型號**: Apple iPad Pro (A1584)
+**型號**: Apple iPad Pro (12.9寸, 第一代, 2015) (A1584)
 
 **製造年份**: 2015 年末
 
@@ -91,6 +91,22 @@ Here are the computer and phone specs which I use every day.
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
 **作業系統**: iPadOS 16.1
+
+### 平板電腦 2
+
+**型號**: Apple iPad (10.2寸, 第八代, 2020) (A2270)
+
+**製造年份**: 2021 年初
+
+**晶片組**: Apple A12
+
+**儲存空間**: 32GB 快閃記憶體
+
+**RAM**: 4GB 2133 MHz LPDDR4X
+
+**相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
+
+**作業系統**: iPadOS 17.0 公開測試版
 
 ## 單眼規格
 

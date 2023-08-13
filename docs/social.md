@@ -10,9 +10,9 @@ This list is also available in a Linktree style (but I designed the website sinc
 
 ## Links
 
-**Discord**: [Raymond#2829](https://discord.gg/sZmg77n5EC)
+**Discord**: [rhsu](https://discord.gg/sZmg77n5EC)
 
-**Twitter**: [@RaymondTheOof](https://twitter.com/RaymondTheOof)
+**Twitter (aka X)**: [RaymondTheOof](https://twitter.com/RaymondTheOof)
 
 **YouTube**: [RaymondHsu](https://youtube.com/RaymondHsu)
 

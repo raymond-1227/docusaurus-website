@@ -32,7 +32,7 @@ Here are the computer and phone specs which I use every day.
 
 **Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it has great scrolling features, at least I think it does) / Phillips SPK7214 Silent Mouse
 
-**Headset**: AKG K702 Reference Studio Headset
+**Headset**: AKG K702 Reference Studio Headphones / Roland RH-A30 Monitor Headphones
 
 **DAC**: NuForce Icon HDP
 
@@ -76,9 +76,9 @@ Here are the computer and phone specs which I use every day.
 
 **Operating System**: ColorOS 13.0 (Based on Android 13)
 
-### Tablet
+### Tablet 1
 
-**Model**: Apple iPad Pro (A1584)
+**Model**: Apple iPad Pro (12.9-inch, 2015) (A1584)
 
 **Year of Manufacture**: Late 2015
 
@@ -90,7 +90,23 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 16.1
+**Operating System**: iPadOS 16.6
+
+### Tablet 2
+
+**Model**: Apple iPad (8th generation, 2020) (A2270)
+
+**Year of Manufacture**: Early 2021
+
+**Chipset**: Apple A12
+
+**Storage**: 32GB Flash Memory
+
+**RAM**: 3GB 2133 MHz LPDDR4X
+
+**Camera**: Rear (8 MP) + Selfie (1.2 MP)
+
+**Operating System**: iPadOS 17.0 Public Beta 3
 
 ## Camera Specs
 
