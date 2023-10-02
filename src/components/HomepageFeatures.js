@@ -21,7 +21,7 @@ const FeatureList = [
   {
     title: <Translate id="blockTitle_3">Changelog</Translate>,
     description: (
-      <Translate id="blockDesc_3">Aug 14, 2023: I don't even know anymore.</Translate>
+      <Translate id="blockDesc_3">Sep 28, 2023: Blog post, hardware update.</Translate>
     ),
   },
 ];

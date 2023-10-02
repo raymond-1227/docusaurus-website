@@ -24,13 +24,13 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Ventura 13.1 | Windows 10 Enterprise 22H2 (Boot Camp)
+**Operating System**: macOS Sonoma 14.0 | Windows 11 Enterprise 23H2 (Boot Camp)
 
 ### Computer Accessories
 
-**Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones)
+**Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones, so I'm surely sticking to it)
 
-**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it has great scrolling features, at least I think it does) / Phillips SPK7214 Silent Mouse
+**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it does has many useful gestures to use with, at least I think it does) / Phillips SPK7214 Silent Mouse
 
 **Headset**: AKG K702 Reference Studio Headphones / Roland RH-A30 Monitor Headphones
 
@@ -42,21 +42,21 @@ Here are the computer and phone specs which I use every day.
 
 ### Phone 1
 
-**Model**: realme 7 5G (RMX2111)
+**Model**: Apple iPhone 15 Pro Max (A3106)
 
-**Year of Manufacture**: Late 2020
+**Year of Manufacture**: Mid 2023
 
-**CPU**: MediaTek MT6853 Dimensity 800U (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+**CPU**: Apple APL1V02 A17 Pro (2x3.78 GHz Performance & 4x2.11 GHz Efficient)
 
-**GPU**: Arm Mali-G57 MC3
+**GPU**: Apple-designed 6-core GPU
 
-**RAM**: 8GB 2133 MHz LPDDR4X
+**RAM**: 8GB LPDDR5
 
-**Storage**: ROM 128GB (UFS 2.1) + SD Card 64GB
+**Storage**: ROM 256GB (NVMe)
 
-**Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
+**Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: realme UI 3.0 (ColorOS 12 rebrand, based on Android 12)
+**Operating System**: iOS 17.0
 
 ### Phone 2
 
@@ -68,13 +68,31 @@ Here are the computer and phone specs which I use every day.
 
 **GPU**: Arm Mali-G57 MC2
 
-**RAM**: 4GB 3733 MHz LPDDR4X
+**RAM**: 4GB LPDDR4X
 
 **Storage**: ROM 64GB (UFS 2.1) + SD Card 32GB
 
 **Camera**: Rear (48 MP Main, 2 MP Depth) + Selfie (8 MP)
 
 **Operating System**: ColorOS 13.0 (Based on Android 13)
+
+### Phone 3
+
+**Model**: realme 7 5G (RMX2111)
+
+**Year of Manufacture**: Late 2020
+
+**CPU**: MediaTek MT6853 Dimensity 800U (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+
+**GPU**: Arm Mali-G57 MC3
+
+**RAM**: 8GB LPDDR4X
+
+**Storage**: ROM 128GB (UFS 2.1) + SD Card 64GB
+
+**Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
+
+**Operating System**: realme UI 3.0 (ColorOS 12 rebrand, based on Android 12)
 
 ### Tablet 1
 
