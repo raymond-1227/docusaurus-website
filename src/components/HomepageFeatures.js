@@ -5,9 +5,9 @@ import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
   {
-    title: <Translate id="blockTitle_1">Docusaurus 2 Was Here</Translate>,
+    title: <Translate id="blockTitle_1">Docusaurus 3 Was Here</Translate>,
     description: (
-      <Translate id="blockDesc_1">Just a website designed all in Docusaurus 2.</Translate>
+      <Translate id="blockDesc_1">Just a website designed all in Docusaurus 3.</Translate>
     ),
   },
   {
@@ -21,7 +21,7 @@ const FeatureList = [
   {
     title: <Translate id="blockTitle_3">Changelog</Translate>,
     description: (
-      <Translate id="blockDesc_3">Sep 28, 2023: Blog post, hardware update.</Translate>
+      <Translate id="blockDesc_3">Jan 1, 2024: New year, new updates.</Translate>
     ),
   },
 ];

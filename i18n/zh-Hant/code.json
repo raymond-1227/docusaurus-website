@@ -273,10 +273,10 @@
     "message": "我只是個無法寫出正常程式碼的普通人。"
   },
   "blockTitle_1": {
-    "message": "Docusaurus 2 底加"
+    "message": "Docusaurus 3 底加"
   },
   "blockDesc_1": {
-    "message": "單純是個基於 Docusaurus 2 所設計的網站。"
+    "message": "單純是個基於 Docusaurus 3 所設計的網站。"
   },
   "blockTitle_2": {
     "message": "很酷的預留空間"
@@ -288,6 +288,6 @@
     "message": "變更日誌"
   },
   "blockDesc_3": {
-    "message": "Jan 17, 2023: 新增了繁體中文語言支援。"
+    "message": "Jan 1, 2024: 新的一年，新增了一些東西。"
   }
 }
