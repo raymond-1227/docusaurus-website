@@ -113,11 +113,11 @@ const config = {
             items: [
               {
                 label: "Main Website",
-                href: "https://raymond-1227.github.io/",
+                href: "https://rhsu.cc/",
               },
               {
                 label: "Old Website",
-                href: "https://raymond-1227.gitlab.io/",
+                href: "https://old.rhsu.cc/",
               },
             ],
           },

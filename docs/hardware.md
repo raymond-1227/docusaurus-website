@@ -56,7 +56,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 17.0
+**Operating System**: iOS 17.2.1
 
 ### Phone 2
 
