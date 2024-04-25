@@ -30,7 +30,7 @@ Here are the computer and phone specs which I use every day.
 
 **鍵盤**: 巧控鍵盤含數字鍵盤（明顯地很多 Windows 鍵盤都和 Mac 所使用的鍵盤佈局差異頗大）
 
-**滑鼠**: 巧控滑鼠 2（我知道很多人不喜歡這個超不符合人體工學的滑鼠，但我個人認為他滑動功能很棒）/ Phillips SPK7214 靜音滑鼠
+**滑鼠**: 巧控滑鼠 2（我知道很多人不喜歡這個超不符合人體工學的滑鼠，但我個人認為他手勢操作功能很棒）/ Phillips SPK7214 靜音滑鼠
 
 **耳機**: AKG K702 錄音室監聽耳機
 
@@ -44,19 +44,17 @@ Here are the computer and phone specs which I use every day.
 
 **型號**: Apple iPhone 15 Pro Max (A3106)
 
-**製造年份**: Mid 2023
+**製造年份**: 2023 年末
 
-**CPU**: Apple APL1V02 A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
-
-**GPU**: Apple 設計的 6-core GPU
+**晶片組**: Apple APL1V02 A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
 
 **RAM**: 8GB LPDDR5
 
 **儲存空間**: ROM 256GB (NVMe)
 
-**相機**: Rear (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + Selfie (12 MP 原深感測)
+**相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + Selfie (12 MP 原深感測)
 
-**作業系統**: iOS 17.2.1
+**作業系統**: iOS 17.4.1
 
 
 ### 手機 2
@@ -69,49 +67,33 @@ Here are the computer and phone specs which I use every day.
 
 **GPU**: Arm Mali-G57 MC2
 
-**RAM**: 4GB 3733 MHz LPDDR4X
+**RAM**: 4GB LPDDR4X
 
 **儲存空間**: ROM 64GB (UFS 2.1) + SD 卡 32GB
 
 **相機**: 後攝像 (48 MP 主鏡頭, 2 MP 景深) + 自拍 (8 MP)
 
-**作業系統**: ColorOS 13.0 （基於 Android 13）
+**作業系統**: ColorOS 14.0 (基於 Android 14)
 
 ### 手機 3
 
-**型號**: realme 7 5G (RMX2111)
+**型號**: Google Pixel 6a (GX7AS)
 
-**製造年份**: 2020 年末
+**製造年份**: 2022 年中
 
-**CPU**: 聯發科 MT6853 天璣 800U (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+**CPU**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
 
-**GPU**: Arm Mali-G57 MC3
+**GPU**: Arm Mali-G78 MP20
 
-**RAM**: 8GB 2133 MHz LPDDR4X
+**RAM**: 8GB LPDDR5
 
-**儲存空間**: ROM 128GB (UFS 2.1) + SD 卡 64GB
+**儲存空間**: ROM 128GB (UFS 3.1)
 
-**相機**: 後攝像 (48 MP 主鏡頭, 8 MP 超廣角, 2MP 微距, 2 MP 景深) + 自拍 (16 MP)
+**相機**: 後攝像 (12.2 MP 主鏡頭, 12 MP 超廣角) + 自拍 (8 MP)
 
-**作業系統**: realme UI 3.0 （ColorOS 12 貼牌版，基於 Android 12）
+**作業系統**: Android 14
 
-### 平板電腦 1
-
-**型號**: Apple iPad Pro (12.9寸, 第一代, 2015) (A1584)
-
-**製造年份**: 2015 年末
-
-**晶片組**: Apple A9X
-
-**儲存空間**: 128GB 快閃記憶體
-
-**RAM**: 4GB 1600 MHz LPDDR4
-
-**相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
-
-**作業系統**: iPadOS 16.1
-
-### 平板電腦 2
+### 平板電腦
 
 **型號**: Apple iPad (10.2寸, 第八代, 2020) (A2270)
 
@@ -125,7 +107,7 @@ Here are the computer and phone specs which I use every day.
 
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
-**作業系統**: iPadOS 17.0 公開測試版
+**作業系統**: iPadOS 17.4.1
 
 ## 單眼規格
 

@@ -44,11 +44,9 @@ Here are the computer and phone specs which I use every day.
 
 **Model**: Apple iPhone 15 Pro Max (A3106)
 
-**Year of Manufacture**: Mid 2023
+**Year of Manufacture**: Late 2023
 
-**CPU**: Apple APL1V02 A17 Pro (2x3.78 GHz Performance & 4x2.11 GHz Efficient)
-
-**GPU**: Apple-designed 6-core GPU
+**Chipset**: Apple APL1V02 A17 Pro (2x3.78 GHz Performance & 4x2.11 GHz Efficient)
 
 **RAM**: 8GB LPDDR5
 
@@ -56,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 17.2.1
+**Operating System**: iOS 17.4.1
 
 ### Phone 2
 
@@ -74,43 +72,27 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 2 MP Depth) + Selfie (8 MP)
 
-**Operating System**: ColorOS 13.0 (Based on Android 13)
+**Operating System**: ColorOS 14.0 (Based on Android 14)
 
 ### Phone 3
 
-**Model**: realme 7 5G (RMX2111)
+**Model**: Google Pixel 6a (GX7AS)
 
-**Year of Manufacture**: Late 2020
+**Year of Manufacture**: Mid 2022
 
-**CPU**: MediaTek MT6853 Dimensity 800U (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+**CPU**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
 
-**GPU**: Arm Mali-G57 MC3
+**GPU**: Arm Mali-G78 MP20
 
-**RAM**: 8GB LPDDR4X
+**RAM**: 6GB LPDDR5
 
-**Storage**: ROM 128GB (UFS 2.1) + SD Card 64GB
+**Storage**: ROM 128GB (UFS 3.1)
 
-**Camera**: Rear (48 MP Main, 8 MP Ultra-Wide, 2MP Macro, 2 MP Depth) + Selfie (16 MP)
+**Camera**: Rear (12.2 MP Main, 12 MP Ultra-Wide) + Selfie (8 MP)
 
-**Operating System**: realme UI 3.0 (ColorOS 12 rebrand, based on Android 12)
+**Operating System**: Android 14
 
-### Tablet 1
-
-**Model**: Apple iPad Pro (12.9-inch, 2015) (A1584)
-
-**Year of Manufacture**: Late 2015
-
-**Chipset**: Apple A9X
-
-**Storage**: 128GB Flash Memory
-
-**RAM**: 4GB 1600 MHz LPDDR4
-
-**Camera**: Rear (8 MP) + Selfie (1.2 MP)
-
-**Operating System**: iPadOS 16.6
-
-### Tablet 2
+### Tablet
 
 **Model**: Apple iPad (8th generation, 2020) (A2270)
 
@@ -124,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 17.0 Public Beta
+**Operating System**: iPadOS 17.4.1
 
 ## Camera Specs
 
