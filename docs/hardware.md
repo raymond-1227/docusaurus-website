@@ -20,7 +20,7 @@ Here are the computer and phone specs which I use every day.
 
 **RAM**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
 
-**Storage**: Fusion Drive 2TB + Seagate HDD 6TB (For Time Machine)
+**Storage**: Fusion Drive 2TB + WD My Book HDD 4TB (For Time Machine)
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
@@ -30,7 +30,7 @@ Here are the computer and phone specs which I use every day.
 
 **Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones, so I'm surely sticking to it)
 
-**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it does has many useful gestures to use with, at least I think it does) / Phillips SPK7214 Silent Mouse
+**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it does has many useful gestures to use with, at least I think it does) / Logitech M110 Silent Corded Mouse
 
 **Headset**: AKG K702 Reference Studio Headphones / Roland RH-A30 Monitor Headphones
 
@@ -54,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 17.4.1
+**Operating System**: iOS 17.5.1
 
 ### Phone 2
 
@@ -106,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 17.4.1
+**Operating System**: iPadOS 18.0 Beta
 
 ## Camera Specs
 

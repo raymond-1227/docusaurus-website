@@ -20,19 +20,19 @@ Here are the computer and phone specs which I use every day.
 
 **RAM**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
 
-**儲存空間**: 融合硬碟 2TB + Seagate HDD 6TB（時光機備份用的）
+**儲存空間**: 融合硬碟 2TB + WD My Book 4TB（時光機備份專用）
 
-**網路攝影機**: FaceTime HD 相機（內建的）
+**網路攝影機**: FaceTime HD 相機（內建）
 
-**作業系統**: macOS Ventura 13.1 | Windows 10 企業版 22H2 (Boot Camp)
+**作業系統**: macOS Sonoma 14.5 | Windows 11 企業版 23H2 (Boot Camp)
 
 ### 電腦配件
 
 **鍵盤**: 巧控鍵盤含數字鍵盤（明顯地很多 Windows 鍵盤都和 Mac 所使用的鍵盤佈局差異頗大）
 
-**滑鼠**: 巧控滑鼠 2（我知道很多人不喜歡這個超不符合人體工學的滑鼠，但我個人認為他手勢操作功能很棒）/ Phillips SPK7214 靜音滑鼠
+**滑鼠**: 巧控滑鼠 2（我知道很多人不喜歡這個超不符合人體工學的滑鼠，但我個人認為他手勢操作功能很棒）/ 羅技 M110 靜音有線滑鼠
 
-**耳機**: AKG K702 錄音室監聽耳機
+**耳機**: AKG K702 錄音室監聽耳機 / Roland RH-A30 監聽耳機
 
 **耳機擴大器**: NuForce Icon HDP
 
@@ -54,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + Selfie (12 MP 原深感測)
 
-**作業系統**: iOS 17.4.1
+**作業系統**: iOS 17.5.1
 
 
 ### 手機 2
@@ -107,7 +107,7 @@ Here are the computer and phone specs which I use every day.
 
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
-**作業系統**: iPadOS 17.4.1
+**作業系統**: iPadOS 18.0 測試版
 
 ## 單眼規格
 

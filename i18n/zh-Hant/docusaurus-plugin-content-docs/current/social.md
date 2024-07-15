@@ -12,13 +12,13 @@ sidebar_position: 3
 
 **Discord**: [rhsu](https://discord.gg/sZmg77n5EC)
 
-**Twitter (aka X)**: [RaymondTheOof](https://twitter.com/RaymondTheOof)
+**X**: [RaymondTheOof](https://x.com/RaymondTheOof)
 
-**YouTube**: [RaymondHsu](https://youtube.com/RaymondHsu)
+**YouTube**: [RaymondHsu](https://www.youtube.com/@RaymondHsu)
 
-**Facebook**: [ush.dnomyar](https://facebook.com/ush.dnomyar)
+**Facebook**: [ush.dnomyar](https://www.facebook.com/ush.dnomyar)
 
-**Instagram**: [rhsu.jpg](https://instagram.com/rhsu.jpg)
+**Instagram**: [rhsu.jpg](https://www.instagram.com/rhsu.jpg)
 
 **Github**: [raymond-1227](https://github.com/raymond-1227)
 
