@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sonoma 14.0 | Windows 11 Enterprise 23H2 (Boot Camp)
+**Operating System**: macOS Sequoia 15.2 | Windows 11 Enterprise 23H2 (Boot Camp)
 
 ### Computer Accessories
 
@@ -54,27 +54,9 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 17.5.1
+**Operating System**: iOS 18.2
 
 ### Phone 2
-
-**Model**: OPPO A77 5G (CPH2339)
-
-**Year of Manufacture**: Mid 2022
-
-**CPU**: MediaTek MT6833P Dimensity 810 (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
-
-**GPU**: Arm Mali-G57 MC2
-
-**RAM**: 4GB LPDDR4X
-
-**Storage**: ROM 64GB (UFS 2.1) + SD Card 32GB
-
-**Camera**: Rear (48 MP Main, 2 MP Depth) + Selfie (8 MP)
-
-**Operating System**: ColorOS 14.0 (Based on Android 14)
-
-### Phone 3
 
 **Model**: Google Pixel 6a (GX7AS)
 
@@ -90,7 +72,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (12.2 MP Main, 12 MP Ultra-Wide) + Selfie (8 MP)
 
-**Operating System**: Android 14
+**Operating System**: Android 15
 
 ### Tablet
 
@@ -106,7 +88,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 18.0 Beta
+**Operating System**: iPadOS 18.2
 
 ## Camera Specs
 

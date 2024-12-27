@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 關於
+# About
 
 Taipei Metro (also known as Taipei Mass Rapid Transit (MRT) and branded as Metro Taipei) is a rapid transit system operated by the Taipei Rapid Transit Corporation serving the capital Taipei and New Taipei City in Taiwan. It was the first and the largest rapid transit system to be built on the island. It consists of 5 main routes, 2 branch lines, and a gondola line.
 
