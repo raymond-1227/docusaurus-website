@@ -1,8 +1,8 @@
 // @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer').themes.github;
-const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -26,8 +26,8 @@ const config = {
       },
       "zh-Hant": {
         label: "繁體中文",
-      }
-    }
+      },
+    },
   },
   presets: [
     [
@@ -46,7 +46,17 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "cool-stuff",
+        path: "cool-stuff",
+        routeBasePath: "cool-stuff",
+        sidebarPath: require.resolve("./sidebars.js"),
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -64,6 +74,12 @@ const config = {
             label: "About",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/cool-stuff/intro",
+            docId: "cool-stuff",
+            position: "left",
+            label: "Cool Stuff",
+          },
           {
             href: "https://rhsu.cc",
             label: "Main Website",
