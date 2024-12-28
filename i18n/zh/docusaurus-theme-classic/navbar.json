@@ -11,6 +11,10 @@
     "message": "部落格",
     "description": "Navbar item with label Blog"
   },
+  "item.label.Cool Stuff": {
+    "message": "有趣的東西",
+    "description": "Navbar item with label Cool Stuff"
+  },
   "item.label.Main Website": {
     "message": "主網站",
     "description": "Navbar item with label Main Website"

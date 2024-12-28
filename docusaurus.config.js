@@ -24,7 +24,7 @@ const config = {
       en: {
         label: "English",
       },
-      "zh-Hant": {
+      zh: {
         label: "繁體中文",
       },
     },
@@ -53,7 +53,10 @@ const config = {
         id: "cool-stuff",
         path: "cool-stuff",
         routeBasePath: "cool-stuff",
-        sidebarPath: require.resolve("./sidebars-cool-stuff.js"),
+        sidebarPath: ({ locale }) =>
+          locale === "zh"
+            ? require.resolve("./i18n/zh/sidebars-cool-stuff.js")
+            : require.resolve("./sidebars-cool-stuff.js"),
       },
     ],
   ],
