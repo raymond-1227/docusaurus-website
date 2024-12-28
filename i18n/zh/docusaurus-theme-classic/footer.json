@@ -33,11 +33,11 @@
   },
   "link.item.label.Main Website": {
     "message": "主網站",
-    "description": "The label of footer link with label=Main Website linking to https://raymond-1227.github.io/"
+    "description": "The label of footer link with label=Main Website linking to https://rhsu.cc/"
   },
   "link.item.label.Old Website": {
     "message": "舊網站",
-    "description": "The label of footer link with label=Old Website linking to https://raymond-1227.gitlab.io/"
+    "description": "The label of footer link with label=Old Website linking to https://old.rhsu.cc/"
   },
   "copyright": {
     "message": "© 2023 Raymond Hsu 版權一切所有 | 基於 Docusaurus，而非 WordPress。",

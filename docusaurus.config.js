@@ -53,10 +53,7 @@ const config = {
         id: "cool-stuff",
         path: "cool-stuff",
         routeBasePath: "cool-stuff",
-        sidebarPath: ({ locale }) =>
-          locale === "zh"
-            ? require.resolve("./i18n/zh/sidebars-cool-stuff.js")
-            : require.resolve("./sidebars-cool-stuff.js"),
+        sidebarPath: require.resolve("./sidebars-cool-stuff.js"),
       },
     ],
   ],

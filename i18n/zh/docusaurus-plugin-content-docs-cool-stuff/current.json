@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "下一頁",
+    "description": "The label for version current"
+  },
+  "sidebar.coolStuffSidebar.category.Brawl Stars": {
+    "message": "荒野亂鬥",
+    "description": "The label for category Brawl Stars in sidebar coolStuffSidebar"
+  },
+  "sidebar.coolStuffSidebar.category.Taipei Metro": {
+    "message": "臺北捷運",
+    "description": "The label for category Taipei Metro in sidebar coolStuffSidebar"
+  },
+  "sidebar.coolStuffSidebar.category.Medium Capacity": {
+    "message": "中運量",
+    "description": "The label for category Medium Capacity in sidebar coolStuffSidebar"
+  },
+  "sidebar.coolStuffSidebar.category.Heavy Capacity": {
+    "message": "高運量",
+    "description": "The label for category Heavy Capacity in sidebar coolStuffSidebar"
+  },
+  "sidebar.coolStuffSidebar.doc.Introduction": {
+    "message": "簡介",
+    "description": "The label for the doc item Introduction in sidebar coolStuffSidebar, linking to the doc taipei-metro/intro"
+  },
+  "sidebar.coolStuffSidebar.doc.Mastery": {
+    "message": "專精",
+    "description": "The label for the doc item Mastery in sidebar coolStuffSidebar, linking to the doc brawl-stars/mastery"
+  },
+  "sidebar.coolStuffSidebar.doc.INNOVIA APM 256": {
+    "message": "INNOVIA APM 256 型電聯車",
+    "description": "The label for the doc item INNOVIA APM 256 in sidebar coolStuffSidebar, linking to the doc taipei-metro/medium/bt370"
+  },
+  "sidebar.coolStuffSidebar.doc.Circular Line EMU": {
+    "message": "環狀線電聯車",
+    "description": "The label for the doc item Circular Line EMU in sidebar coolStuffSidebar, linking to the doc taipei-metro/medium/emu101"
+  },
+  "sidebar.coolStuffSidebar.doc.VAL256": {
+    "message": "VAL256 型電聯車",
+    "description": "The label for the doc item VAL256 in sidebar coolStuffSidebar, linking to the doc taipei-metro/medium/val256"
+  },
+  "sidebar.coolStuffSidebar.doc.Taipei Metro C301": {
+    "message": "C301 型電聯車",
+    "description": "The label for the doc item Taipei Metro C301 in sidebar coolStuffSidebar, linking to the doc taipei-metro/heavy/c301"
+  },
+  "sidebar.coolStuffSidebar.doc.Taipei Metro C321": {
+    "message": "C321 型電聯車",
+    "description": "The label for the doc item Taipei Metro C321 in sidebar coolStuffSidebar, linking to the doc taipei-metro/heavy/c321"
+  },
+  "sidebar.coolStuffSidebar.doc.Taipei Metro C341": {
+    "message": "C341 型電聯車",
+    "description": "The label for the doc item Taipei Metro C341 in sidebar coolStuffSidebar, linking to the doc taipei-metro/heavy/c341"
+  },
+  "sidebar.coolStuffSidebar.doc.Taipei Metro C371": {
+    "message": "C371 型電聯車",
+    "description": "The label for the doc item Taipei Metro C371 in sidebar coolStuffSidebar, linking to the doc taipei-metro/heavy/c371"
+  },
+  "sidebar.coolStuffSidebar.doc.Taipei Metro C381": {
+    "message": "C381 型電聯車",
+    "description": "The label for the doc item Taipei Metro C381 in sidebar coolStuffSidebar, linking to the doc taipei-metro/heavy/c381"
+  }
+}

@@ -18,5 +18,9 @@
   "item.label.Main Website": {
     "message": "主網站",
     "description": "Navbar item with label Main Website"
+  },
+  "logo.alt": {
+    "message": "Raymond's Logo",
+    "description": "The alt text of navbar logo"
   }
 }
