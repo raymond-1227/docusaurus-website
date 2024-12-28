@@ -19,7 +19,7 @@ const config = {
   trailingSlash: false,
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "zh-Hant"],
+    locales: ["en", "zh"],
     localeConfigs: {
       en: {
         label: "English",
