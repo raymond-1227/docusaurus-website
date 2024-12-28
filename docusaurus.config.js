@@ -53,7 +53,7 @@ const config = {
         id: "cool-stuff",
         path: "cool-stuff",
         routeBasePath: "cool-stuff",
-        sidebarPath: require.resolve("./sidebars.js"),
+        sidebarPath: require.resolve("./sidebars-cool-stuff.js"),
       },
     ],
   ],
