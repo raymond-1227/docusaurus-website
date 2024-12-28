@@ -111,12 +111,8 @@ const config = {
             title: "Featured Projects",
             items: [
               {
-                label: "Firefox Add-on - PTE",
-                href: "https://addons.mozilla.org/firefox/addon/page-text-editor/",
-              },
-              {
-                label: "OS Concept - #TeamCompound",
-                href: "https://teamcompound.github.io/",
+                label: "Class Table Teller - whats-the-next-class",
+                href: "https://raymond-1227.github.io/whats-the-next-class/",
               },
               {
                 label: "Discord Bot - hackerman14",

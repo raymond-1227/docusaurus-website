@@ -19,13 +19,9 @@
     "message": "部落格",
     "description": "The label of footer link with label=Blog linking to /blog"
   },
-  "link.item.label.Firefox Add-on - PTE": {
-    "message": "Firefox 外掛 - PTE",
-    "description": "The label of footer link with label=Firefox Add-on - PTE linking to https://addons.mozilla.org/firefox/addon/page-text-editor/"
-  },
-  "link.item.label.OS Concept - #TeamCompound": {
-    "message": "作業系統概念 - #TeamCompound",
-    "description": "The label of footer link with label=OS Concept - #TeamCompound linking to https://teamcompound.github.io/"
+  "link.item.label.Class Table Teller - whats-the-next-class": {
+    "message": "直覺的課表 - 下一節課是什麼",
+    "description": "The label of footer link with label=Class Table Teller - whats-the-next-class linking to https://raymond-1227.github.io/whats-the-next-class/"
   },
   "link.item.label.Discord Bot - hackerman14": {
     "message": "Discord 機器人 - hackerman14",
