@@ -15,23 +15,23 @@
 const sidebars = {
   coolStuffSidebar: [
     {
+      type: "doc",
+      id: "intro",
+      label: "Introduction",
+    },
+    {
       type: "category",
       label: "Brawl Stars",
       items: [
         {
           type: "doc",
-          id: "taipei-metro/medium/bt370",
-          label: "INNOVIA APM 256",
+          id: "brawl-stars/intro",
+          label: "Introduction",
         },
         {
           type: "doc",
-          id: "taipei-metro/medium/emu101",
-          label: "Circular Line EMU",
-        },
-        {
-          type: "doc",
-          id: "taipei-metro/medium/val256",
-          label: "VAL256",
+          id: "brawl-stars/mastery",
+          label: "Mastery",
         },
       ],
     },
@@ -39,6 +39,11 @@ const sidebars = {
       type: "category",
       label: "Taipei Metro",
       items: [
+        {
+          type: "doc",
+          id: "taipei-metro/intro",
+          label: "Introduction",
+        },
         {
           type: "category",
           label: "Medium Capacity",
