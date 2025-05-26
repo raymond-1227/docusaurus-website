@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **網路攝影機**: FaceTime HD 相機（內建）
 
-**作業系統**: macOS Sonoma 14.5 | Windows 11 企業版 23H2 (Boot Camp)
+**作業系統**: macOS Sequoia 15.5 | Windows 11 企業版 23H2 (Boot Camp)
 
 ### 電腦配件
 
@@ -54,28 +54,9 @@ Here are the computer and phone specs which I use every day.
 
 **相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + Selfie (12 MP 原深感測)
 
-**作業系統**: iOS 17.5.1
-
+**作業系統**: iOS 18.5
 
 ### 手機 2
-
-**型號**: OPPO A77 5G (CPH2339)
-
-**製造年份**: 2022 年中
-
-**CPU**: 聯發科 MT6833P 天璣 810 (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
-
-**GPU**: Arm Mali-G57 MC2
-
-**RAM**: 4GB LPDDR4X
-
-**儲存空間**: ROM 64GB (UFS 2.1) + SD 卡 32GB
-
-**相機**: 後攝像 (48 MP 主鏡頭, 2 MP 景深) + 自拍 (8 MP)
-
-**作業系統**: ColorOS 14.0 (基於 Android 14)
-
-### 手機 3
 
 **型號**: Google Pixel 6a (GX7AS)
 
@@ -91,7 +72,7 @@ Here are the computer and phone specs which I use every day.
 
 **相機**: 後攝像 (12.2 MP 主鏡頭, 12 MP 超廣角) + 自拍 (8 MP)
 
-**作業系統**: Android 14
+**作業系統**: Android 15
 
 ### 平板電腦
 
@@ -107,11 +88,21 @@ Here are the computer and phone specs which I use every day.
 
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
-**作業系統**: iPadOS 18.0 測試版
+**作業系統**: iPadOS 18.5
+
+### 穿戴裝置
+
+**型號**: Xiaomi 手環 9 NFC (M2346B1)
+
+**製造年份**: 2024 年中
+
+**Chipset**: 恒玄科技 BES2700iMP
+
+**RAM**: 256MB
+
+**Operating System**: Xiaomi HyperOS 2.3.93
 
 ## 單眼規格
-
-*（備註：這台是我爸的，不過畫質至今還是很棒所以還是說一下）*
 
 **型號**: Canon EOS 5D Mark II
 

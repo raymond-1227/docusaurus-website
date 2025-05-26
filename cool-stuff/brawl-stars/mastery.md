@@ -77,37 +77,40 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 
 ### Mythic Brawlers
 
-| Brawler | Title                 |
-| ------- | --------------------- |
-| Mortis  | Creature of the Night |
-| Tara    | What's in the cards?  |
-| Gene    | Talk to the Hand!     |
-| Mr. P   | The Boss              |
-| Max     | I AM SPEED!           |
-| Sprout  | Tree hugger           |
-| Lou     | is here for you!      |
-| Byron   | The Sensational       |
-| Ruffs   | Colonel               |
-| Squeak  | is an accident        |
-| Buzz    | Born bad              |
-| Fang    | Sneaker Artist        |
-| Eve     | Mother                |
-| Janet   | The Rocket            |
-| Otis    | The Artist            |
-| Buster  | Blockbuster           |
-| Gray    | The Shady             |
-| R-T     | The Watcher           |
-| Willow  | Is in your head!      |
-| Doug    | Wiener                |
-| Chuck   | The Maestro           |
-| Charlie | The Amazing           |
-| Mico    | Am I a joke to you?   |
-| Melodie | Fearless              |
-| Lily    | Backstabber           |
-| Clancy  | Shell Shocked         |
-| Moe     | Cheesy                |
-| Juju    | Hexed                 |
-| Ollie   | Based                 |
+| Brawler  | Title                 |
+| -------- | --------------------- |
+| Mortis   | Creature of the Night |
+| Tara     | What's in the cards?  |
+| Gene     | Talk to the Hand!     |
+| Mr. P    | The Boss              |
+| Max      | I AM SPEED!           |
+| Sprout   | Tree hugger           |
+| Lou      | is here for you!      |
+| Byron    | The Sensational       |
+| Ruffs    | Colonel               |
+| Squeak   | is an accident        |
+| Buzz     | Born bad              |
+| Fang     | Sneaker Artist        |
+| Eve      | Mother                |
+| Janet    | The Rocket            |
+| Otis     | The Artist            |
+| Buster   | Blockbuster           |
+| Gray     | The Shady             |
+| R-T      | The Watcher           |
+| Willow   | Is in your head!      |
+| Doug     | Wiener                |
+| Chuck    | The Maestro           |
+| Charlie  | The Amazing           |
+| Mico     | Am I a joke to you?   |
+| Melodie  | Fearless              |
+| Lily     | Backstabber           |
+| Clancy   | Shell Shocked         |
+| Moe      | Cheesy                |
+| Juju     | Hexed                 |
+| Ollie    | Based                 |
+| Lumi     | Headbanger            |
+| Finx     | Waste of time         |
+| Jae-yong | Amor Fati             |
 
 ### Legendary Brawlers
 
@@ -126,3 +129,9 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 | Draco          | Dungeon Master          |
 | Kenji          | Samurai                 |
 | Buzz Lightyear | To infinity and beyond! |
+
+### Ultra Legendary Brawlers
+
+| Brawler | Title |
+| ------- | ----- |
+| Kaze    | Ninja |

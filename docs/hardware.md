@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sequoia 15.2 | Windows 11 Enterprise 23H2 (Boot Camp)
+**Operating System**: macOS Sequoia 15.5 | Windows 11 Enterprise 23H2 (Boot Camp)
 
 ### Computer Accessories
 
@@ -54,7 +54,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 18.2
+**Operating System**: iOS 18.5
 
 ### Phone 2
 
@@ -88,11 +88,21 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 18.2
+**Operating System**: iPadOS 18.5
+
+### Wearable
+
+**Model**: Xiaomi Smart Band 9 NFC (M2346B1)
+
+**Year of Manufacture**: Mid 2024
+
+**Chipset**: Bestechnic BES2700iMP
+
+**RAM**: 256MB
+
+**Operating System**: Xiaomi HyperOS 2.3.93
 
 ## Camera Specs
-
-*(Note: I don't own this camera, my dad owns it. Nice build quality BTW.)*
 
 **Camera Model**: Canon EOS 5D Mark II
 
