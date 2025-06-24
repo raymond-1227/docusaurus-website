@@ -21,7 +21,7 @@
   },
   "sidebar.coolStuffSidebar.doc.Introduction": {
     "message": "簡介",
-    "description": "The label for the doc item Introduction in sidebar coolStuffSidebar, linking to the doc taipei-metro/intro"
+    "description": "The label for the doc item Introduction in sidebar coolStuffSidebar, linking to the doc elevators/intro"
   },
   "sidebar.coolStuffSidebar.doc.Mastery": {
     "message": "專精",
@@ -58,5 +58,25 @@
   "sidebar.coolStuffSidebar.doc.Taipei Metro C381": {
     "message": "C381 型電聯車",
     "description": "The label for the doc item Taipei Metro C381 in sidebar coolStuffSidebar, linking to the doc taipei-metro/heavy/c381"
+  },
+  "sidebar.coolStuffSidebar.category.Fastest Elevators": {
+    "message": "世界最快電梯",
+    "description": "The label for category Fastest Elevators in sidebar coolStuffSidebar"
+  },
+  "sidebar.coolStuffSidebar.doc.Guangzhou CTF Finance Centre": {
+    "message": "廣州周大福金融中心",
+    "description": "The label for the doc item Guangzhou CTF Finance Centre in sidebar coolStuffSidebar, linking to the doc elevators/guangzhou-ctf-finance-centre"
+  },
+  "sidebar.coolStuffSidebar.doc.Shanghai Tower": {
+    "message": "上海中心大廈",
+    "description": "The label for the doc item Shanghai Tower in sidebar coolStuffSidebar, linking to the doc elevators/shanghai-tower"
+  },
+  "sidebar.coolStuffSidebar.doc.Taipei 101": {
+    "message": "台北 101",
+    "description": "The label for the doc item Taipei 101 in sidebar coolStuffSidebar, linking to the doc elevators/taipei-101"
+  },
+  "sidebar.coolStuffSidebar.doc.Yokohama Landmark Tower": {
+    "message": "橫濱地標大廈",
+    "description": "The label for the doc item Yokohama Landmark Tower in sidebar coolStuffSidebar, linking to the doc elevators/yokohama-landmark-tower"
   }
 }

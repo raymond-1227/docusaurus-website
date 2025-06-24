@@ -93,7 +93,7 @@
   },
   "theme.colorToggle.ariaLabel": {
     "message": "切換淺色/深色模式（當前為{mode}）",
-    "description": "The ARIA label for the navbar color mode toggle"
+    "description": "The ARIA label for the color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
     "message": "深色模式",
@@ -337,5 +337,17 @@
   "theme.contentVisibility.draftBanner.message": {
     "message": "此頁面為草稿。它僅在開發時顯示，並被排除在生產版本之外。",
     "description": "The draft content banner message"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "系統模式",
+    "description": "The name for the system color mode"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "展開下拉式選單",
+    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "合起下拉式選單",
+    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   }
 }

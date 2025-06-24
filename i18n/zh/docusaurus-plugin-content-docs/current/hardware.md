@@ -6,9 +6,9 @@ sidebar_position: 2
 
 Here are the computer and phone specs which I use every day.
 
-## 桌機規格
+## 電腦規格
 
-### 電腦
+### 桌機
 
 **型號**: Apple iMac (Retina 5K, 27吋, 2019) (A2115)
 

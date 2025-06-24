@@ -6,9 +6,9 @@ sidebar_position: 2
 
 Here are the computer and phone specs which I use every day.
 
-## Desktop Specs
+## Computer Specs
 
-### Computer
+### Desktop
 
 **Model**: Apple iMac (Retina 5K, 27-inch, 2019) (A2115)
 
@@ -72,7 +72,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (12.2 MP Main, 12 MP Ultra-Wide) + Selfie (8 MP)
 
-**Operating System**: Android 15
+**Operating System**: Android 16
 
 ### Tablet
 

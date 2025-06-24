@@ -9,6 +9,7 @@ const sidebars = {
     {
       type: "category",
       label: "Brawl Stars",
+      collapsed: false,
       items: [
         {
           type: "doc",
@@ -25,6 +26,7 @@ const sidebars = {
     {
       type: "category",
       label: "Taipei Metro",
+      collapsed: false,
       items: [
         {
           type: "doc",
@@ -82,6 +84,38 @@ const sidebars = {
               label: "Taipei Metro C381",
             },
           ],
+        },
+      ],
+    },
+    {
+      type: "category",
+      label: "Fastest Elevators",
+      collapsed: false,
+      items: [
+        {
+          type: "doc",
+          id: "elevators/intro",
+          label: "Introduction",
+        },
+        {
+          type: "doc",
+          id: "elevators/guangzhou-ctf-finance-centre",
+          label: "Guangzhou CTF Finance Centre",
+        },
+        {
+          type: "doc",
+          id: "elevators/shanghai-tower",
+          label: "Shanghai Tower",
+        },
+        {
+          type: "doc",
+          id: "elevators/taipei-101",
+          label: "Taipei 101",
+        },
+        {
+          type: "doc",
+          id: "elevators/yokohama-landmark-tower",
+          label: "Yokohama Landmark Tower",
         },
       ],
     },
