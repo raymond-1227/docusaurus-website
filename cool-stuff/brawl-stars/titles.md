@@ -2,19 +2,17 @@
 sidebar_position: 2
 ---
 
-# Mastery
+# Brawler Titles
 
-Mastery Points could only be gained after winning battles or by being the "Star Player". Each Brawler has its own Mastery Point count. An additional 30% Mastery Points are awarded if a player is the "Star Player" of a 3v3 or 5v5 match. Each time a Brawler levels up in Mastery, the player receives Coins, Power Points, Credits, Facepalm Pins, secondary Brawler Profile Icons, or Titles.
+Each brawler has a unique title that reflects their personality, abilities, or lore in the game. To earn one you need to reach 200 wins for that brawler.
 
-## List of Brawler Titles
-
-### Starting Brawler
+## Starting Brawler
 
 | Brawler | Title               |
 | ------- | ------------------- |
 | Shelly  | No time to explain! |
 
-### Rare Brawlers
+## Rare Brawlers
 
 | Brawler  | Title           |
 | -------- | --------------- |
@@ -27,7 +25,7 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 | Poco     | El Mariachi     |
 | Rosa     | Touching Grass  |
 
-### Super Rare Brawlers
+## Super Rare Brawlers
 
 | Brawler  | Title                   |
 | -------- | ----------------------- |
@@ -42,7 +40,7 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 | Jacky    | #@%\*\*                 |
 | Gus      | The Lost                |
 
-### Epic Brawlers
+## Epic Brawlers
 
 | Brawler        | Title               |
 | -------------- | ------------------- |
@@ -74,8 +72,9 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 | Berry          | Unicorn             |
 | Shade          | Ghosted             |
 | Meeple         | Cheater             |
+| Trunk          | Controlled by Ants  |
 
-### Mythic Brawlers
+## Mythic Brawlers
 
 | Brawler  | Title                 |
 | -------- | --------------------- |
@@ -111,8 +110,9 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 | Lumi     | Headbanger            |
 | Finx     | Waste of time         |
 | Jae-yong | Amor Fati             |
+| Alli     | See You Later         |
 
-### Legendary Brawlers
+## Legendary Brawlers
 
 | Brawler        | Title                   |
 | -------------- | ----------------------- |
@@ -130,7 +130,7 @@ Mastery Points could only be gained after winning battles or by being the "Star 
 | Kenji          | Samurai                 |
 | Buzz Lightyear | To infinity and beyond! |
 
-### Ultra Legendary Brawlers
+## Ultra Legendary Brawlers
 
 | Brawler | Title |
 | ------- | ----- |

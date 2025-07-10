@@ -18,8 +18,8 @@ const sidebars = {
         },
         {
           type: "doc",
-          id: "brawl-stars/mastery",
-          label: "Mastery",
+          id: "brawl-stars/titles",
+          label: "Titles",
         },
       ],
     },
