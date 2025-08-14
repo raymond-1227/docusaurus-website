@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # 社群帳號
 
-我主要用 Discord，所以如果你想要聯絡我，請使用 Discord 或 Facebook Messenger。
+我平常主要使用 Discord，所以如果想要聯絡我，請使用 Discord 或 Facebook Messenger。
 
-這一長串的列表也有 Linktree 風格的版本（但我自己設計了網站，因為幾乎所有類似 Linktree 的服務都想要我付錢），[點擊這裡](https://raymond-1227.github.io/social) 去看看吧！
+這一長串的網址列表也有 Linktree 風格的版本（但我自己設計了網站，因為幾乎所有類似 Linktree 的網站服務都要錢），[點擊這裡](https://raymond-1227.github.io/social) 去看看吧！
 
 ## 連結
 

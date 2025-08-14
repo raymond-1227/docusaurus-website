@@ -11,7 +11,7 @@ Hello, I'm Raymond. I'm just someone who loves discovering anything in the world
 - A he/him
 - Lives in Taiwan
 - Speaks both English (CEFR level between B2 to C1) and Chinese fluently (ignore the fact my chinese exam scores are basically pretty bad lol)
-- Loves to code, design, video editing, and play games (not much games)
+- Loves to code, design, video editing, play games (not much actually), and also organizing informations (as you can see the entire website is about informations)
 - A fan of public transportation, specifically elevators and trains
 
 ## Brief History

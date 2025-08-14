@@ -8,6 +8,24 @@ Here are the computer and phone specs which I use every day.
 
 ## Computer Specs
 
+### Laptop
+
+**Model**: Acer Swift 16 AI (SF16-51-75BA)
+
+**Year of Manufacture**: 2025
+
+**CPU**: Intel Core Ultra 7 258V
+
+**GPU**: Intel Arc 140V
+
+**RAM**: 32GB 8533 MHz LPDDR5X
+
+**Storage**: SK hynix Platinum P41 1TB + WD PC SN5000S 1TB
+
+**Webcam**: QHD IR camera (Built-in)
+
+**Operating System**: Windows 11 Home 24H2
+
 ### Desktop
 
 **Model**: Apple iMac (Retina 5K, 27-inch, 2019) (A2115)
@@ -24,9 +42,9 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sequoia 15.5 | Windows 11 Enterprise 23H2 (Boot Camp)
+**Operating System**: macOS Sequoia 15.6 | Windows 11 Enterprise 23H2 (Boot Camp)
 
-### Computer Accessories
+### Desktop Accessories
 
 **Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones, so I'm surely sticking to it)
 
@@ -50,11 +68,11 @@ Here are the computer and phone specs which I use every day.
 
 **RAM**: 8GB LPDDR5
 
-**Storage**: ROM 256GB (NVMe)
+**Storage**: 256GB NVMe
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 18.5
+**Operating System**: iOS 18.6
 
 ### Phone 2
 
@@ -62,13 +80,13 @@ Here are the computer and phone specs which I use every day.
 
 **Year of Manufacture**: Mid 2022
 
-**CPU**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
+**Chipset**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
 
 **GPU**: Arm Mali-G78 MP20
 
 **RAM**: 6GB LPDDR5
 
-**Storage**: ROM 128GB (UFS 3.1)
+**Storage**: 128GB UFS 3.1
 
 **Camera**: Rear (12.2 MP Main, 12 MP Ultra-Wide) + Selfie (8 MP)
 
@@ -88,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 18.5
+**Operating System**: iPadOS 18.6
 
 ### Wearable
 
@@ -98,13 +116,13 @@ Here are the computer and phone specs which I use every day.
 
 **Chipset**: Bestechnic BES2700iMP
 
-**RAM**: 256MB
+**Storage**: 256MB
 
-**Operating System**: Xiaomi HyperOS 2.3.93
+**Operating System**: Xiaomi HyperOS 2.3.97
 
 ## Camera Specs
 
-**Camera Model**: Canon EOS 5D Mark II
+**Model**: Canon EOS 5D Mark II
 
 **Year of Manufacture**: Late 2008
 

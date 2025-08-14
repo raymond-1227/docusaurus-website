@@ -4,9 +4,27 @@ sidebar_position: 2
 
 # 硬體規格
 
-Here are the computer and phone specs which I use every day.
+這裡是我日常使用的硬體規格。
 
 ## 電腦規格
+
+### 筆電
+
+**型號**: Acer Swift 16 AI (SF16-51-75BA)
+
+**製造年份**: 2025
+
+**中央處理器**: Intel Core Ultra 7 258V
+
+**顯示晶片**: Intel Arc 140V
+
+**記憶體**: 32GB 8533 MHz LPDDR5X
+
+**儲存空間**: SK hynix Platinum P41 1TB + WD PC SN5000S 1TB
+
+**網路攝影機**: QHD IR 相機（內建）
+
+**作業系統**: Windows 11 家用版 24H2
 
 ### 桌機
 
@@ -14,23 +32,23 @@ Here are the computer and phone specs which I use every day.
 
 **製造年份**: 2020 年中
 
-**CPU**: Intel Core i5-8500
+**中央處理器**: Intel Core i5-8500
 
-**GPU**: AMD Radeon Pro 570X 搭載 4GB GDDR5 顯示記憶體
+**顯示晶片**: AMD Radeon Pro 570X 搭載 4GB GDDR5 顯示記憶體
 
-**RAM**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
+**記憶體**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
 
 **儲存空間**: 融合硬碟 2TB + WD My Book 4TB（時光機備份專用）
 
 **網路攝影機**: FaceTime HD 相機（內建）
 
-**作業系統**: macOS Sequoia 15.5 | Windows 11 企業版 23H2 (Boot Camp)
+**作業系統**: macOS Sequoia 15.6 | Windows 11 企業版 23H2 (Boot Camp)
 
 ### 電腦配件
 
 **鍵盤**: 巧控鍵盤含數字鍵盤（明顯地很多 Windows 鍵盤都和 Mac 所使用的鍵盤佈局差異頗大）
 
-**滑鼠**: 巧控滑鼠 2（我知道很多人不喜歡這個超不符合人體工學的滑鼠，但我個人認為他手勢操作功能很棒）/ 羅技 M110 靜音有線滑鼠
+**滑鼠**: 巧控滑鼠 2（我知道很多人因為它的設計完全不符合人體工學所以討厭，但我個人滿喜歡手勢操作的功能）/ 羅技 M110 靜音有線滑鼠
 
 **耳機**: AKG K702 錄音室監聽耳機 / Roland RH-A30 監聽耳機
 
@@ -46,15 +64,15 @@ Here are the computer and phone specs which I use every day.
 
 **製造年份**: 2023 年末
 
-**晶片組**: Apple APL1V02 A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
+**晶片**: Apple APL1V02 A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
 
-**RAM**: 8GB LPDDR5
+**記憶體**: 8GB LPDDR5
 
-**儲存空間**: ROM 256GB (NVMe)
+**儲存空間**: 256GB NVMe
 
-**相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + Selfie (12 MP 原深感測)
+**相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + 自拍 (12 MP 原深感測)
 
-**作業系統**: iOS 18.5
+**作業系統**: iOS 18.6
 
 ### 手機 2
 
@@ -62,17 +80,17 @@ Here are the computer and phone specs which I use every day.
 
 **製造年份**: 2022 年中
 
-**CPU**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
+**晶片**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
 
-**GPU**: Arm Mali-G78 MP20
+**顯示晶片**: Arm Mali-G78 MP20
 
-**RAM**: 8GB LPDDR5
+**記憶體**: 8GB LPDDR5
 
-**儲存空間**: ROM 128GB (UFS 3.1)
+**儲存空間**: 128GB UFS 3.1
 
 **相機**: 後攝像 (12.2 MP 主鏡頭, 12 MP 超廣角) + 自拍 (8 MP)
 
-**作業系統**: Android 15
+**作業系統**: Android 16
 
 ### 平板電腦
 
@@ -80,15 +98,15 @@ Here are the computer and phone specs which I use every day.
 
 **製造年份**: 2021 年初
 
-**晶片組**: Apple A12
+**晶片**: Apple A12
 
 **儲存空間**: 32GB 快閃記憶體
 
-**RAM**: 4GB 2133 MHz LPDDR4X
+**記憶體**: 4GB 2133 MHz LPDDR4X
 
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
-**作業系統**: iPadOS 18.5
+**作業系統**: iPadOS 18.6
 
 ### 穿戴裝置
 
@@ -96,11 +114,11 @@ Here are the computer and phone specs which I use every day.
 
 **製造年份**: 2024 年中
 
-**Chipset**: 恒玄科技 BES2700iMP
+**晶片**: 恒玄科技 BES2700iMP
 
-**RAM**: 256MB
+**儲存空間**: 256MB
 
-**Operating System**: Xiaomi HyperOS 2.3.93
+**作業系統**: Xiaomi HyperOS 2.3.97
 
 ## 單眼規格
 
