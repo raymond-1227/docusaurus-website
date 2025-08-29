@@ -42,13 +42,13 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sequoia 15.6 | Windows 11 Enterprise 23H2 (Boot Camp)
+**Operating System**: macOS Sequoia 15.6.1 | Windows 11 Enterprise 23H2 (Boot Camp)
 
-### Desktop Accessories
+### Computer Accessories
 
 **Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones, so I'm surely sticking to it)
 
-**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it does has many useful gestures to use with, at least I think it does) / Logitech M110 Silent Corded Mouse
+**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it does has many useful gestures to use with, at least I think it does) / Logitech M110 Silent Corded Mouse / Logitech Signature Plus M750 L
 
 **Headset**: AKG K702 Reference Studio Headphones / Roland RH-A30 Monitor Headphones
 
