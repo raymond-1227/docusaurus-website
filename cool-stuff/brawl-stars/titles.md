@@ -111,6 +111,7 @@ Each brawler has a unique title that reflects their personality, abilities, or l
 | Finx     | Waste of time         |
 | Jae-yong | Amor Fati             |
 | Alli     | See You Later         |
+| Mina     | The Hurricane         |
 
 ## Legendary Brawlers
 
