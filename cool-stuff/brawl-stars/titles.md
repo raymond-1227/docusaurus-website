@@ -112,6 +112,8 @@ Each brawler has a unique title that reflects their personality, abilities, or l
 | Jae-yong | Amor Fati             |
 | Alli     | See You Later         |
 | Mina     | The Hurricane         |
+| Ziggy    | The Great             |
+| Gigi     | Strung Up             |
 
 ## Legendary Brawlers
 
