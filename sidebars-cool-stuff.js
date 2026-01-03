@@ -44,8 +44,8 @@ const sidebars = {
             },
             {
               type: "doc",
-              id: "taipei-metro/medium/emu101",
-              label: "Circular Line EMU",
+              id: "taipei-metro/medium/c610",
+              label: "Taipei Metro C610",
             },
             {
               type: "doc",

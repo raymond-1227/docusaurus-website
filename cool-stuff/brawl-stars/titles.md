@@ -132,6 +132,7 @@ Each brawler has a unique title that reflects their personality, abilities, or l
 | Draco          | Dungeon Master          |
 | Kenji          | Samurai                 |
 | Buzz Lightyear | To infinity and beyond! |
+| Pierce         | Peed in the pool        |
 
 ## Ultra Legendary Brawlers
 
