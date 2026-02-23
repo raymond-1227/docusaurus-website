@@ -4,138 +4,159 @@ sidebar_position: 2
 
 # Brawler Titles
 
-Each brawler has a unique title that reflects their personality, abilities, or lore in the game. To earn one you need to reach 200 wins for that brawler.
+Each brawler has a unique title that reflects their personality, abilities, or lore in the game.
+
+## How to Earn
+
+To earn titles, you need to reach the following milestones for each brawler:
+
+### Current Method
+
+Prestige 3 titles are introduced with the Prestige system which was to replace part of the record system, so the previous methods won't contain how they are earned.
+
+- **Prestige 1 Golden Titles**: Gain 1000 trophies (reaching Prestige 1) with the brawler.
+- **Prestige 3 Neon Titles**: Gain 3000 trophies (reaching Prestige 3) with the brawler.
+
+### Previous Method
+
+Prestige 1 titles are previously known as record titles or even older as mastery titles. The titles itself weren't changed, but the method to earn them did.
+
+- **Records**: Gain 300 wins with the brawler.
+- **Mastery**: Gain 24800 mastery points with the brawler. (the only excexption is Buzz Lightyear, who only needed 16000 mastery points to earn his title as he was a time-limited brawler)
 
 ## Starting Brawler
 
-| Brawler | Title               |
-| ------- | ------------------- |
-| Shelly  | No time to explain! |
+| Brawler | Prestige 1 Title    | Prestige 3 Title |
+| ------- | ------------------- | ---------------- |
+| Shelly  | No time to explain! | Fantástico       |
 
 ## Rare Brawlers
 
-| Brawler  | Title           |
-| -------- | --------------- |
-| Nita     | The Untamed     |
-| Colt     | The Pretty      |
-| Bull     | Bulldozer!      |
-| Brock    | Boom!           |
-| El Primo | El Luchador     |
-| Barley   | You got served! |
-| Poco     | El Mariachi     |
-| Rosa     | Touching Grass  |
+| Brawler  | Prestige 1 Title | Prestige 3 Title          |
+| -------- | ---------------- | ------------------------- |
+| Nita     | The Untamed      | Wild                      |
+| Colt     | The Pretty       | PEW PEW PEW               |
+| Bull     | Bulldozer!       | Don't mess with me        |
+| Brock    | Boom!            | Take the L                |
+| El Primo | El Luchador      | Sin dolor, no hay gloria! |
+| Barley   | You got served!  | Last Call                 |
+| Poco     | El Mariachi      | Goes Loco                 |
+| Rosa     | Touching Grass   | Blooming                  |
 
 ## Super Rare Brawlers
 
-| Brawler  | Title                   |
-| -------- | ----------------------- |
-| Jessie   | The Builder             |
-| Dynamike | Birdie, birdie, birdie! |
-| Tick     | Where's my head?        |
-| 8-Bit    | SYS 64738               |
-| Rico     | The Lover               |
-| Darryl   | Pirrrate!               |
-| Penny    | The Salty               |
-| Carl     | The Geologist           |
-| Jacky    | #@%\*\*                 |
-| Gus      | The Lost                |
+| Brawler  | Prestige 1 Title        | Prestige 3 Title    |
+| -------- | ----------------------- | ------------------- |
+| Jessie   | The Builder             | Will fix it!        |
+| Dynamike | Birdie, birdie, birdie! | BOOMBASTIC          |
+| Tick     | Where's my head?        | Hot-headed          |
+| 8-Bit    | SYS 64738               | Game Over           |
+| Rico     | The Lover               | Trickshot           |
+| Darryl   | Pirrrate!               | The Captain         |
+| Penny    | The Salty               | The Rebel           |
+| Carl     | The Geologist           | IQ too high         |
+| Jacky    | #@%\*\*                 | Don't #@%$ with me! |
+| Gus      | The Lost                | Balloon Boy         |
 
 ## Epic Brawlers
 
-| Brawler        | Title               |
-| -------------- | ------------------- |
-| Bo             | One with Nature     |
-| Piper          | The Sniper          |
-| Pam            | Your Mom            |
-| Frank          | The Tank            |
-| Bibi           | Cool Cat            |
-| Bea            | Queen               |
-| Emz            | #haters             |
-| Gale           | The Janitor         |
-| Nani           | Nanny               |
-| Colette        | The Collector       |
-| Edgar          | CEO of Brawl Stars  |
-| Stu            | Wicked              |
-| Belle          | Starr               |
-| Grom           | With one left hand! |
-| Griff          | The Greedy          |
-| Ash            | Trash Tier          |
-| Lola           | Drama Queen         |
-| Bonnie         | The Reckless        |
-| Sam            | In your face!       |
-| Mandy          | Tough Cookie        |
-| Maisie         | Master of Disaster  |
-| Hank           | Prawn Ready!        |
-| Pearl          | Let Me Cook!        |
-| Larry & Lawrie | I am the law!       |
-| Angelo         | Bloodthirsty        |
-| Berry          | Unicorn             |
-| Shade          | Ghosted             |
-| Meeple         | Cheater             |
-| Trunk          | Controlled by Ants  |
+| Brawler        | Prestige 1 Title    | Prestige 3 Title     |
+| -------------- | ------------------- | -------------------- |
+| Bo             | One with Nature     | Patience is the key  |
+| Piper          | The Sniper          | Headshots Only       |
+| Pam            | Your Mom            | You got scrapped!    |
+| Frank          | The Tank            | Certified Lobotomy   |
+| Bibi           | Cool Cat            | Grand Slam           |
+| Bea            | Queen               | Bee Kind!            |
+| Emz            | #haters             | ratio                |
+| Gale           | The Janitor         | Retired              |
+| Nani           | Nanny               | You okay?            |
+| Colette        | The Collector       | Brawl Stars Forever! |
+| Edgar          | CEO of Brawl Stars  | EZ                   |
+| Stu            | Wicked              | Test Dummy           |
+| Belle          | Starr               | Most Wanted          |
+| Grom           | With one left hand! | Red Hood             |
+| Griff          | The Greedy          | Money, Money, Money  |
+| Ash            | Trash Tier          | Trashy               |
+| Lola           | Drama Queen         | Diva                 |
+| Bonnie         | The Reckless        | Toothbreaker         |
+| Sam            | In your face!       | Top                  |
+| Mandy          | Tough Cookie        | FREE CANDY           |
+| Maisie         | Master of Disaster  | Pop and Lock         |
+| Hank           | Prawn Ready!        | Lil' Tenant          |
+| Pearl          | Let Me Cook!        | Cookie Lover         |
+| Larry & Lawrie | I am the law!       | Obey or Pay!         |
+| Angelo         | Bloodthirsty        | Spilling the tea     |
+| Berry          | Unicorn             | Sweet Dreams         |
+| Shade          | Ghosted             | Ghosting you         |
+| Meeple         | Cheater             | My game, my rules!   |
+| Trunk          | Controlled by Ants  | We are Trunk!        |
 
 ## Mythic Brawlers
 
-| Brawler  | Title                 |
-| -------- | --------------------- |
-| Mortis   | Creature of the Night |
-| Tara     | What's in the cards?  |
-| Gene     | Talk to the Hand!     |
-| Mr. P    | The Boss              |
-| Max      | I AM SPEED!           |
-| Sprout   | Tree hugger           |
-| Lou      | is here for you!      |
-| Byron    | The Sensational       |
-| Ruffs    | Colonel               |
-| Squeak   | is an accident        |
-| Buzz     | Born bad              |
-| Fang     | Sneaker Artist        |
-| Eve      | Mother                |
-| Janet    | The Rocket            |
-| Otis     | The Artist            |
-| Buster   | Blockbuster           |
-| Gray     | The Shady             |
-| R-T      | The Watcher           |
-| Willow   | Is in your head!      |
-| Doug     | Wiener                |
-| Chuck    | The Maestro           |
-| Charlie  | The Amazing           |
-| Mico     | Am I a joke to you?   |
-| Melodie  | Fearless              |
-| Lily     | Backstabber           |
-| Clancy   | Shell Shocked         |
-| Moe      | Cheesy                |
-| Juju     | Hexed                 |
-| Ollie    | Based                 |
-| Lumi     | Headbanger            |
-| Finx     | Waste of time         |
-| Jae-yong | Amor Fati             |
-| Alli     | See You Later         |
-| Mina     | The Hurricane         |
-| Ziggy    | The Great             |
-| Gigi     | Strung Up             |
+| Brawler  | Prestige 1 Title       | Prestige 3 Title       |
+| -------- | ---------------------- | ---------------------- |
+| Mortis   | Creature of the Night  | Bringer of Doom        |
+| Tara     | What's in the cards?   | Future Demise          |
+| Gene     | Talk to the Hand!      | Ablablababa            |
+| Mr. P    | The Boss               | The biggest bird       |
+| Max      | I AM SPEED!            | Too fast               |
+| Sprout   | Tree hugger            | With love              |
+| Lou      | is here for you!       | Brainfreeze            |
+| Byron    | The Sensational        | Will end you           |
+| Ruffs    | Colonel                | Dog                    |
+| Squeak   | is an accident         | Squishy                |
+| Buzz     | Born bad               | Stay Hydrated          |
+| Fang     | Sneaker Artist         | One Kick Man           |
+| Eve      | Mother                 | Mommy                  |
+| Janet    | The Rocket             | Big sis                |
+| Otis     | The Artist             | Muted                  |
+| Buster   | Blockbuster            | Absolute Cinema        |
+| Gray     | The Shady              | Shhhh!                 |
+| R-T      | The Watcher            | Watching you           |
+| Willow   | Is in your head!       | Control Freak          |
+| Doug     | Wiener                 | Chill, bro             |
+| Chuck    | The Maestro            | Can't Stop, Won't Stop |
+| Charlie  | The Amazing            | Main Attraction        |
+| Mico     | Am I a joke to you?    | Going Bananas          |
+| Melodie  | Fearless               | Melodian               |
+| Lily     | Backstabber            | Right behind you       |
+| Clancy   | Shell Shocked          | No Mercy               |
+| Moe      | Cheesy                 | Say cheese!            |
+| Juju     | Hexed                  | Devil in Disguise      |
+| Ollie    | Based                  | Pro Skater             |
+| Lumi     | Headbanger             | Hot & Cold             |
+| Finx     | Waste of time          | Cat Lover              |
+| Jae-yong | Amor Fati              | Employee of the month  |
+| Alli     | See You Later          | Stalker                |
+| Mina     | The Hurricane          | Breakdancer            |
+| Ziggy    | The Great              | Master of Thunder      |
+| Gigi     | Strung Up              | Ballerina              |
+| Glowbert | Sleeps with the fishes | Needs a friend         |
+| Najia    |                        | Snake Charmer          |
 
 ## Legendary Brawlers
 
-| Brawler        | Title                   |
-| -------------- | ----------------------- |
-| Spike          | One of a Kind           |
-| Crow           | Caw caw!                |
-| Leon           | The Sneaky              |
-| Sandy          | The Sleepy              |
-| Surge          | Bro                     |
-| Amber          | Fire Starter            |
-| Meg            | Tech Support 2.0        |
-| Chester        | Jack of all Trades      |
-| Cordelius      | Toxic                   |
-| Kit            | Meow                    |
-| Draco          | Dungeon Master          |
-| Kenji          | Samurai                 |
-| Buzz Lightyear | To infinity and beyond! |
-| Pierce         | Peed in the pool        |
+| Brawler        | Prestige 1 Title        | Prestige 3 Title  |
+| -------------- | ----------------------- | ----------------- |
+| Spike          | One of a Kind           | Speechless        |
+| Crow           | Caw caw!                | Boss of Bosses    |
+| Leon           | The Sneaky              | Now you see me... |
+| Sandy          | The Sleepy              | Zzzz...           |
+| Surge          | Bro                     | Juicy             |
+| Amber          | Fire Starter            | is on fire!       |
+| Meg            | Tech Support 2.0        | Heavy Metal       |
+| Chester        | Jack of all Trades      | Joker             |
+| Cordelius      | Toxic                   | Spore Warden      |
+| Kit            | Meow                    | Purrfect          |
+| Draco          | Dungeon Master          | Master of Metal   |
+| Kenji          | Samurai                 | Chopped           |
+| Buzz Lightyear | To infinity and beyond! | _N/A_             |
+| Pierce         | Peed in the pool        | Bad cop           |
 
 ## Ultra Legendary Brawlers
 
-| Brawler | Title |
-| ------- | ----- |
-| Kaze    | Ninja |
+| Brawler | Prestige 1 Title | Prestige 3 Title |
+| ------- | ---------------- | ---------------- |
+| Kaze    | Ninja            | Like the wind    |
+| Sirius  |                  | In the shadows   |
