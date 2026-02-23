@@ -5,6 +5,7 @@ const sidebars = {
       type: "doc",
       id: "intro",
       label: "Introduction",
+      key: "intro-main",
     },
     {
       type: "category",
@@ -15,6 +16,7 @@ const sidebars = {
           type: "doc",
           id: "brawl-stars/intro",
           label: "Introduction",
+          key: "intro-brawl-stars",
         },
         {
           type: "doc",
@@ -32,6 +34,7 @@ const sidebars = {
           type: "doc",
           id: "taipei-metro/intro",
           label: "Introduction",
+          key: "intro-taipei-metro",
         },
         {
           type: "category",
@@ -96,6 +99,7 @@ const sidebars = {
           type: "doc",
           id: "elevators/intro",
           label: "Introduction",
+          key: "intro-elevators",
         },
         {
           type: "doc",
