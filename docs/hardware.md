@@ -12,7 +12,7 @@ Here are the computer and phone specs which I use every day.
 
 **Model**: Acer Swift 16 AI (SF16-51-75BA)
 
-**Year of Manufacture**: 2025
+**Year of Manufacture**: Mid 2025
 
 **CPU**: Intel Core Ultra 7 258V
 
@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: QHD IR camera (Built-in)
 
-**Operating System**: Windows 11 Home 24H2
+**Operating System**: Windows 11 Home 25H2
 
 ### Desktop
 
@@ -42,7 +42,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sequoia 15.6.1 | Windows 11 Enterprise 23H2 (Boot Camp)
+**Operating System**: macOS Sequoia 15.7.4 | Windows 11 Pro 23H2 (Boot Camp)
 
 ### Computer Accessories
 
@@ -72,7 +72,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 18.6
+**Operating System**: iOS 26.3
 
 ### Phone 2
 
@@ -106,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 18.6
+**Operating System**: iPadOS 26.3
 
 ### Wearable
 
@@ -118,7 +118,7 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: 256MB
 
-**Operating System**: Xiaomi HyperOS 2.3.97
+**Operating System**: Xiaomi HyperOS 2.3.98
 
 ## Camera Specs
 

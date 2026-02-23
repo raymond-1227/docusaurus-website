@@ -12,7 +12,7 @@ sidebar_position: 2
 
 **型號**: Acer Swift 16 AI (SF16-51-75BA)
 
-**製造年份**: 2025
+**製造年份**: 2025 年中
 
 **中央處理器**: Intel Core Ultra 7 258V
 
@@ -24,7 +24,7 @@ sidebar_position: 2
 
 **網路攝影機**: QHD IR 相機（內建）
 
-**作業系統**: Windows 11 家用版 24H2
+**作業系統**: Windows 11 家用版 25H2
 
 ### 桌機
 
@@ -42,7 +42,7 @@ sidebar_position: 2
 
 **網路攝影機**: FaceTime HD 相機（內建）
 
-**作業系統**: macOS Sequoia 15.6 | Windows 11 企業版 23H2 (Boot Camp)
+**作業系統**: macOS Sequoia 15.7.4 | Windows 11 專業版 23H2 (Boot Camp)
 
 ### 電腦配件
 
@@ -72,7 +72,7 @@ sidebar_position: 2
 
 **相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + 自拍 (12 MP 原深感測)
 
-**作業系統**: iOS 18.6
+**作業系統**: iOS 26.3
 
 ### 手機 2
 
@@ -106,7 +106,7 @@ sidebar_position: 2
 
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
-**作業系統**: iPadOS 18.6
+**作業系統**: iPadOS 26.3
 
 ### 穿戴裝置
 
@@ -118,7 +118,7 @@ sidebar_position: 2
 
 **儲存空間**: 256MB
 
-**作業系統**: Xiaomi HyperOS 2.3.97
+**作業系統**: Xiaomi HyperOS 2.3.98
 
 ## 單眼規格
 

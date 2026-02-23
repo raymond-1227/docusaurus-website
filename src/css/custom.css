@@ -5,6 +5,8 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+
 :root {
   --ifm-color-primary: #104670;
   --ifm-color-primary-dark: #0e3f65;
@@ -36,4 +38,76 @@
 
 [data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+.lilita-stack {
+  position: relative;
+  font-family: "Lilita One", sans-serif;
+  display: inline-block;
+}
+
+.lilita-gold-fill {
+  position: relative;
+  z-index: 1;
+  background: -webkit-linear-gradient(
+    0deg,
+    #ffd785,
+    #ffd23e,
+    #fab82c,
+    #f3a829,
+    #fab82c,
+    #ffd23e,
+    #ffd785,
+    #ffd23e,
+    #fab82c
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: #f9d843;
+}
+
+.lilita-neon-fill {
+  position: relative;
+  z-index: 1;
+  background: -webkit-linear-gradient(0deg, #001059);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: #001059;
+  
+}
+
+.lilita-gold-outline {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  text-shadow:
+    -1px -1px black,
+    0px -1px black,
+    1px -1px black,
+    1px 0px black,
+    1px 1px black,
+    0px 1px black,
+    -1px 1px black,
+    -1px 0px black,
+    0px 2.5px black;
+  color: transparent;
+}
+
+.lilita-neon-outline {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  text-shadow:
+    -1px -1px #f1f1f1,
+    0px -1px #f1f1f1,
+    1px -1px #f1f1f1,
+    1px 0px #f1f1f1,
+    1px 1px #f1f1f1,
+    0px 1px #f1f1f1,
+    -1px 1px #f1f1f1,
+    -1px 0px #f1f1f1,
+    0px 2.5px #f1f1f1;
+  color: transparent;
 }

@@ -2,140 +2,169 @@
 sidebar_position: 2
 ---
 
+import GoldTitle from '@site/src/components/GoldTitle';
+import NeonTitle from '@site/src/components/NeonTitle';
+
 # 英雄稱號
 
-每個英雄都有一個獨特的稱號，反映了他們在遊戲中的個性、能力或背景故事。若要獲得一個稱號就需要使用該英雄並取得共 300 場勝利。
+每個英雄都有兩個獨特的稱號，反映了他們在遊戲中的個性、能力或背景故事。
+
+## 如何取得
+
+要取得稱號必須達到每個英雄的以下里程碑。
+
+### 目前方法
+
+巔峰威望 3 的稱號是隨著巔峰威望系統的引入而推出的，該系統取代了部分紀錄系統，因此之前的方法將不包含如何取得它們。
+
+**巔峰威望等級 1 金色稱號**：獲得該英雄共 1000 獎盃。
+**巔峰威望等級 3 霓虹稱號**：獲得該英雄共 3000 獎盃。
+
+### 之前方法
+
+巔峰威望等級 1 的稱號之前被稱為紀錄稱號，甚至在更早被稱為專精稱號。稱號本身沒有更動，兩者差異僅在於取得的方法。
+
+**紀錄**：獲得該英雄共 300 場勝利。
+**專精**：獲得該英雄共 24800 專精點數。（唯一例外是巴斯光年，因為他是限時英雄，所以只需要 16000 專精點數就能拿到他的稱號）
 
 ## 初始英雄
 
-| 英雄 | 稱號           |
-| ---- | -------------- |
-| 雪莉 | 沒時間解釋了！ |
+| 英雄 | 巔峰威望等級 1 稱號                   | 巔峰威望等級 3 稱號 |
+| ---- | ------------------------------------- | ------------------- |
+| 雪莉 | <GoldTitle>沒時間解釋了！</GoldTitle> |                     |
 
 ## 稀有英雄
 
-| 英雄       | 稱號       |
-| ---------- | ---------- |
-| 妮塔       | 狂野不羈   |
-| 柯爾特     | 瀟灑迷人   |
-| 狂牛       | 推土機！   |
-| 布洛克     | 大爆炸！   |
-| 艾爾普里莫 | 摔角巨星   |
-| 保力       | 飲料來囉！ |
-| 波可       | 知名樂手   |
-| 羅莎       | 擁抱自然   |
+| 英雄       | 巔峰威望等級 1 稱號               | 巔峰威望等級 3 稱號 |
+| ---------- | --------------------------------- | ------------------- |
+| 妮塔       | <GoldTitle>狂野不羈</GoldTitle>   |                     |
+| 柯爾特     | <GoldTitle>瀟灑迷人</GoldTitle>   |                     |
+| 狂牛       | <GoldTitle>推土機！</GoldTitle>   |                     |
+| 布洛克     | <GoldTitle>大爆炸！</GoldTitle>   |                     |
+| 艾爾普里莫 | <GoldTitle>摔角巨星</GoldTitle>   |                     |
+| 保力       | <GoldTitle>飲料來囉！</GoldTitle> |                     |
+| 波可       | <GoldTitle>知名樂手</GoldTitle>   |                     |
+| 羅莎       | <GoldTitle>擁抱自然</GoldTitle>   |                     |
 
 ## 超稀有英雄
 
-| 英雄     | 稱號       |
-| -------- | ---------- |
-| 潔西     | 建造大師   |
-| 爆破麥克 | 要爆了！   |
-| 滴答     | 我的頭呢？ |
-| 比特八號 | 指令64738  |
-| 彈射     | 大情聖     |
-| 達里爾   | 海盜來也！ |
-| 佩妮     | 怒海滔天   |
-| 卡爾     | 地質學家   |
-| 賈姬     | #@%\*\*    |
-| 格斯     | 迷失者     |
+| 英雄     | 巔峰威望等級 1 稱號               | 巔峰威望等級 3 稱號 |
+| -------- | --------------------------------- | ------------------- |
+| 潔西     | <GoldTitle>建造大師</GoldTitle>   |                     |
+| 爆破麥克 | <GoldTitle>要爆了！</GoldTitle>   |                     |
+| 滴答     | <GoldTitle>我的頭呢？</GoldTitle> |                     |
+| 比特八號 | <GoldTitle>指令64738</GoldTitle>  |                     |
+| 彈射     | <GoldTitle>大情聖</GoldTitle>     |                     |
+| 達里爾   | <GoldTitle>海盜來也！</GoldTitle> |                     |
+| 佩妮     | <GoldTitle>怒海滔天</GoldTitle>   |                     |
+| 卡爾     | <GoldTitle>地質學家</GoldTitle>   |                     |
+| 賈姬     | <GoldTitle>#@%\*\*</GoldTitle>    |                     |
+| 格斯     | <GoldTitle>迷失者</GoldTitle>     |                     |
 
 ## 史詩英雄
 
-| 英雄       | 稱號         |
-| ---------- | ------------ |
-| 鷹獵人 爆  | 自然之友     |
-| 小辣椒     | 狙擊神射手   |
-| 帕姆       | 令堂         |
-| 法蘭克     | 坦克肉盾     |
-| 嗶嗶       | 淡定酷妹     |
-| 碧兒       | 女王蜂       |
-| 艾謎       | #黑特        |
-| 格爾       | 垃圾終結者   |
-| 納妮       | 細心保姆     |
-| 葛蕾特     | 收集狂       |
-| 艾德加     | 亂鬥CEO      |
-| 駛徒       | 叛逆精神     |
-| 蓓爾       | 西部之星     |
-| 葛羅姆     | 讓你一隻手！ |
-| 格里夫     | 慣老闆       |
-| 阿信       | 垃圾等級     |
-| 蘿拉       | 狠愛演       |
-| 邦妮       | 莽撞小妹     |
-| 山姆       | 吃我一拳！   |
-| 曼蒂       | 女強人       |
-| 麥希       | 災厄大師     |
-| 漢克       | 超坦尖兵     |
-| 珀爾       | 麵麵俱到     |
-| 賴瑞和羅瑞 | 我就是法律   |
-| 安傑洛     | 一針見血     |
-| 貝瑞       | 獨角獸       |
-| 謝德       | 恐怖幽影     |
-| 謎寶       | 作弊大師     |
-| 特朗克     | 「蟻」心控   |
+| 英雄       | 巔峰威望等級 1 稱號                 | 巔峰威望等級 3 稱號 |
+| ---------- | ----------------------------------- | ------------------- |
+| 鷹獵人 爆  | <GoldTitle>自然之友</GoldTitle>     |                     |
+| 小辣椒     | <GoldTitle>狙擊神射手</GoldTitle>   |                     |
+| 帕姆       | <GoldTitle>令堂</GoldTitle>         |                     |
+| 法蘭克     | <GoldTitle>坦克肉盾</GoldTitle>     |                     |
+| 嗶嗶       | <GoldTitle>淡定酷妹</GoldTitle>     |                     |
+| 碧兒       | <GoldTitle>女王蜂</GoldTitle>       |                     |
+| 艾謎       | <GoldTitle>#黑特</GoldTitle>        |                     |
+| 格爾       | <GoldTitle>垃圾終結者</GoldTitle>   |                     |
+| 納妮       | <GoldTitle>細心保姆</GoldTitle>     |                     |
+| 葛蕾特     | <GoldTitle>收集狂</GoldTitle>       |                     |
+| 艾德加     | <GoldTitle>亂鬥CEO</GoldTitle>      |                     |
+| 駛徒       | <GoldTitle>叛逆精神</GoldTitle>     |                     |
+| 蓓爾       | <GoldTitle>西部之星</GoldTitle>     |                     |
+| 葛羅姆     | <GoldTitle>讓你一隻手！</GoldTitle> |                     |
+| 格里夫     | <GoldTitle>慣老闆</GoldTitle>       |                     |
+| 阿信       | <GoldTitle>垃圾等級</GoldTitle>     |                     |
+| 蘿拉       | <GoldTitle>狠愛演</GoldTitle>       |                     |
+| 邦妮       | <GoldTitle>莽撞小妹</GoldTitle>     |                     |
+| 山姆       | <GoldTitle>吃我一拳！</GoldTitle>   |                     |
+| 曼蒂       | <GoldTitle>女強人</GoldTitle>       |                     |
+| 麥希       | <GoldTitle>災厄大師</GoldTitle>     |                     |
+| 漢克       | <GoldTitle>超坦尖兵</GoldTitle>     |                     |
+| 珀爾       | <GoldTitle>麵麵俱到</GoldTitle>     |                     |
+| 賴瑞和羅瑞 | <GoldTitle>我就是法律</GoldTitle>   |                     |
+| 安傑洛     | <GoldTitle>一針見血</GoldTitle>     |                     |
+| 貝瑞       | <GoldTitle>獨角獸</GoldTitle>       |                     |
+| 謝德       | <GoldTitle>恐怖幽影</GoldTitle>     |                     |
+| 謎寶       | <GoldTitle>作弊大師</GoldTitle>     |                     |
+| 特朗克     | <GoldTitle>「蟻」心控</GoldTitle>   |                     |
 
 ## 神話英雄
 
-| 英雄   | 稱號         |
-| ------ | ------------ |
-| 莫提斯 | 暗夜行者     |
-| 塔拉   | 卡牌奧秘     |
-| 吉恩   | 精靈魔手     |
-| Mr. P  | Boss         |
-| 麥克斯 | 我就是速度！ |
-| 芽芽   | 環保魔人     |
-| 阿魯   | 在你身旁！   |
-| 拜倫   | 絕命藥師     |
-| 拉夫   | 上校         |
-| 史威克 | 意外之作     |
-| 霸子   | 天生狂野     |
-| 范     | 球鞋愛好者   |
-| 異芙   | 異形之母     |
-| 珍娜   | 火箭飛人     |
-| 歐提斯 | 大藝術家     |
-| 巴斯特 | 票房保證     |
-| 蓋瑞   | 黑白魅影     |
-| R-T    | 監視者       |
-| 葳洛   | 直擊心靈！   |
-| 道格   | 熱狗大亨     |
-| 查克   | 指揮大師     |
-| 查莉   | 驚豔全場     |
-| 米可   | 是在笑什麼！ |
-| 美樂蒂 | 卡拉永遠OK   |
-| 莉莉   | 背刺狂魔     |
-| 克蘭西 | 蝦兵蟹將     |
-| 莫     | 土裡土氣     |
-| 茱茱   | 咒術之王     |
-| 奧利   | 街頭玩家     |
-| 露米   | 搖滾狂人     |
-| 芬克斯 | 浪費我時間！ |
-| 載勇   | 樂天知命     |
-| 艾麗   | 鱷魚的眼淚   |
-| 蜜娜   | 颶風         |
-| 茲奇   | 大魔術師     |
-| 琪琪   | 你也想跳舞嗎 |
+| 英雄     | 巔峰威望等級 1 稱號                 | 巔峰威望等級 3 稱號 |
+| -------- | ----------------------------------- | ------------------- |
+| 莫提斯   | <GoldTitle>暗夜行者</GoldTitle>     |                     |
+| 塔拉     | <GoldTitle>卡牌奧秘</GoldTitle>     |                     |
+| 吉恩     | <GoldTitle>精靈魔手</GoldTitle>     |                     |
+| Mr. P    | <GoldTitle>Boss</GoldTitle>         |                     |
+| 麥克斯   | <GoldTitle>我就是速度！</GoldTitle> |                     |
+| 芽芽     | <GoldTitle>環保魔人</GoldTitle>     |                     |
+| 阿魯     | <GoldTitle>在你身旁！</GoldTitle>   |                     |
+| 拜倫     | <GoldTitle>絕命藥師</GoldTitle>     |                     |
+| 拉夫     | <GoldTitle>上校</GoldTitle>         |                     |
+| 史威克   | <GoldTitle>意外之作</GoldTitle>     |                     |
+| 霸子     | <GoldTitle>天生狂野</GoldTitle>     |                     |
+| 范       | <GoldTitle>球鞋愛好者</GoldTitle>   |                     |
+| 異芙     | <GoldTitle>異形之母</GoldTitle>     |                     |
+| 珍娜     | <GoldTitle>火箭飛人</GoldTitle>     |                     |
+| 歐提斯   | <GoldTitle>大藝術家</GoldTitle>     |                     |
+| 巴斯特   | <GoldTitle>票房保證</GoldTitle>     |                     |
+| 蓋瑞     | <GoldTitle>黑白魅影</GoldTitle>     |                     |
+| R-T      | <GoldTitle>監視者</GoldTitle>       |                     |
+| 葳洛     | <GoldTitle>直擊心靈！</GoldTitle>   |                     |
+| 道格     | <GoldTitle>熱狗大亨</GoldTitle>     |                     |
+| 查克     | <GoldTitle>指揮大師</GoldTitle>     |                     |
+| 查莉     | <GoldTitle>驚豔全場</GoldTitle>     |                     |
+| 米可     | <GoldTitle>是在笑什麼！</GoldTitle> |                     |
+| 美樂蒂   | <GoldTitle>卡拉永遠OK</GoldTitle>   |                     |
+| 莉莉     | <GoldTitle>背刺狂魔</GoldTitle>     |                     |
+| 克蘭西   | <GoldTitle>蝦兵蟹將</GoldTitle>     |                     |
+| 莫       | <GoldTitle>土裡土氣</GoldTitle>     |                     |
+| 茱茱     | <GoldTitle>咒術之王</GoldTitle>     |                     |
+| 奧利     | <GoldTitle>街頭玩家</GoldTitle>     |                     |
+| 露米     | <GoldTitle>搖滾狂人</GoldTitle>     |                     |
+| 芬克斯   | <GoldTitle>浪費我時間！</GoldTitle> |                     |
+| 載勇     | <GoldTitle>樂天知命</GoldTitle>     |                     |
+| 艾麗     | <GoldTitle>鱷魚的眼淚</GoldTitle>   |                     |
+| 蜜娜     | <GoldTitle>颶風</GoldTitle>         |                     |
+| 茲奇     | <GoldTitle>大魔術師</GoldTitle>     |                     |
+| 琪琪     | <GoldTitle>你也想跳舞嗎</GoldTitle> |                     |
+| 格魯伯特 | <GoldTitle>不可名狀之物</GoldTitle> |                     |
+| 娜吉亞   |                                     |                     |
 
 ## 傳奇英雄
 
-| 英雄     | 稱號                 |
-| -------- | -------------------- |
-| 史派克   | 獨一無二             |
-| 鴉       | 嘎嘎！               |
-| 里昂     | 隱秘行動             |
-| 沙迪     | 昏昏欲睡             |
-| 奔騰     | Bro                  |
-| 安珀     | 縱火狂               |
-| 梅格     | 科技支援2.0          |
-| 查斯特   | 萬事通               |
-| 康迪留斯 | 小心有毒             |
-| 凱特     | 喵喵喵               |
-| 德拉古   | 地下城主             |
-| 賢治     | 武士                 |
-| 巴斯光年 | 飛向宇宙，浩瀚無垠！ |
-| 皮爾斯   | 泳池小秘密            |
+| 英雄     | 巔峰威望等級 1 稱號                | 巔峰威望等級 3 稱號 |
+| -------- | ---------------------------------- | ------------------- |
+| 史派克   | <GoldTitle>獨一無二</GoldTitle>    |                     |
+| 鴉       | <GoldTitle>嘎嘎！</GoldTitle>      |                     |
+| 里昂     | <GoldTitle>隱秘行動</GoldTitle>    |                     |
+| 沙迪     | <GoldTitle>昏昏欲睡</GoldTitle>    |                     |
+| 奔騰     | <GoldTitle>Bro</GoldTitle>         |                     |
+| 安珀     | <GoldTitle>縱火狂</GoldTitle>      |                     |
+| 梅格     | <GoldTitle>科技支援2.0</GoldTitle> |                     |
+| 查斯特   | <GoldTitle>萬事通</GoldTitle>      |                     |
+| 康迪留斯 | <GoldTitle>小心有毒</GoldTitle>    |                     |
+| 凱特     | <GoldTitle>喵喵喵</GoldTitle>      |                     |
+| 德拉古   | <GoldTitle>地下城主</GoldTitle>    |                     |
+| 賢治     | <GoldTitle>武士</GoldTitle>        |                     |
+| 皮爾斯   | <GoldTitle>泳池小秘密</GoldTitle>  |                     |
 
 ## 超凡英雄
 
-| 英雄 | 稱號 |
-| ---- | ---- |
-| 小風 | 忍者 |
+| 英雄     | 巔峰威望等級 1 稱號         | 巔峰威望等級 3 稱號 |
+| -------- | --------------------------- | ------------------- |
+| 小風     | <GoldTitle>忍者</GoldTitle> |                     |
+| 西里烏斯 |                             |                     |
+
+## 限時英雄
+
+| 英雄     | 實際稀有度 | 稱號                                        |
+| -------- | ---------- | ------------------------------------------- |
+| 巴斯光年 | 傳奇       | <GoldTitle>飛向宇宙，浩瀚無垠！</GoldTitle> |
