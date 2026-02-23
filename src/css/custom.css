@@ -5,7 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Noto+Sans+TC:wght@800&display=swap');
 
 :root {
   --ifm-color-primary: #104670;
@@ -42,8 +42,12 @@
 
 .lilita-stack {
   position: relative;
-  font-family: "Lilita One", sans-serif;
+  font-family: "Lilita One", "Noto Sans TC", sans-serif;
+  font-weight: 800;
+  font-synthesis-weight: none;
   display: inline-block;
+  transform: skewX(-8deg);
+  -webkit-font-smoothing: antialiased;
 }
 
 .lilita-gold-fill {
