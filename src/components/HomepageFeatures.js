@@ -7,7 +7,9 @@ const FeatureList = [
   {
     title: <Translate id="blockTitle_1">Docusaurus 3 Was Here</Translate>,
     description: (
-      <Translate id="blockDesc_1">Just a website all designed in Docusaurus 3.</Translate>
+      <Translate id="blockDesc_1">
+        Just a website all designed in Docusaurus 3.
+      </Translate>
     ),
   },
   {
@@ -21,7 +23,9 @@ const FeatureList = [
   {
     title: <Translate id="blockTitle_3">Changelog</Translate>,
     description: (
-      <Translate id="blockDesc_3">Feb 23, 2026: Added changes for new brawler titles.</Translate>
+      <Translate id="blockDesc_3">
+        Feb 23, 2026: Added changes for new brawler titles.
+      </Translate>
     ),
   },
 ];
