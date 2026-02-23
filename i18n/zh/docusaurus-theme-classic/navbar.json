@@ -20,7 +20,7 @@
     "description": "Navbar item with label Main Website"
   },
   "logo.alt": {
-    "message": "Raymond's Logo",
+    "message": "Raymond 的 Logo",
     "description": "The alt text of navbar logo"
   }
 }

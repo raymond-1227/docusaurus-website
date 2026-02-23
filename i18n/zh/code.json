@@ -349,5 +349,9 @@
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
     "message": "合起下拉式選單",
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "（於新分頁開啟）",
+    "description": "The ARIA label for the external link icon"
   }
 }

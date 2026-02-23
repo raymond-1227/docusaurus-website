@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Brawler Titles
 
-Each brawler has a unique title that reflects their personality, abilities, or lore in the game.
+Each brawler has have 2 unique titles that reflect their personality, abilities, or lore in the game.
 
 ## How to Earn
 
-To earn titles, you need to reach the following milestones for each brawler:
+To earn titles, you need to reach the following milestones for each brawler.
 
 ### Current Method
 
