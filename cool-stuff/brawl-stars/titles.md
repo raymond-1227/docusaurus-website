@@ -17,8 +17,8 @@ To earn titles, you need to reach the following milestones for each brawler.
 
 Prestige 3 titles are introduced with the Prestige system which was to replace part of the record system, so the previous methods won't contain how they are earned.
 
-- **Prestige 1 Gold Titles**: Gain 1000 trophies (reaching Prestige 1) with the brawler.
-- **Prestige 3 Neon Titles**: Gain 3000 trophies (reaching Prestige 3) with the brawler.
+- **Prestige 1 <GoldTitle>Gold Titles</GoldTitle>**: Gain a total of 1000 trophies with the brawler.
+- **Prestige 3 <NeonTitle>Neon Titles</NeonTitle>**: Gain a total of 3000 trophies with the brawler.
 
 ### Previous Method
 
@@ -136,7 +136,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Ziggy    | <GoldTitle>The Great</GoldTitle>              | <NeonTitle>Master of Thunder</NeonTitle>      |
 | Gigi     | <GoldTitle>Strung Up</GoldTitle>              | <NeonTitle>Ballerina</NeonTitle>              |
 | Glowbert | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
-| Najia    |                                               | <NeonTitle>Snake Charmer</NeonTitle>          |
+| Najia    | TBD                                           | <NeonTitle>Snake Charmer</NeonTitle>          |
 
 ## Legendary Brawlers
 
@@ -161,7 +161,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Brawler | Prestige 1 Title             | Prestige 3 Title                      |
 | ------- | ---------------------------- | ------------------------------------- |
 | Kaze    | <GoldTitle>Ninja</GoldTitle> | <NeonTitle>Like the wind</NeonTitle>  |
-| Sirius  |                              | <NeonTitle>In the shadows</NeonTitle> |
+| Sirius  | TBD                          | <NeonTitle>In the shadows</NeonTitle> |
 
 ## Time-Limited Brawlers
 
