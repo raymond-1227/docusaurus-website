@@ -9,6 +9,8 @@ So I got my new Acer laptop, and decided to upgrade it with a better SSD.
 
 But there has always been one big issue, when you reinstall Windows, these drivers that originally came with the device are gone. This means you have to manually install all the necessary drivers for your hardware to function properly.
 
+<!--truncate-->
+
 How do I solve this issue without downloading like 100 different drivers? The answer is to use the "Create Recovery Drive" tool that came with Windows. This native tool allows you to create a backup of your current system, including all the drivers, and restore it later when needed. (make sure you have the "Backup system files to the recovery drive" option checked!)
 
 So I did the exact thing and experimented it, but I encountered a problem. When I tried to restore the recovery drive on the new SSD, it didn't work as expected.

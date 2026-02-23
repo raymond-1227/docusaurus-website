@@ -11,7 +11,6 @@ const config = {
   url: "https://raymond.pages.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "raymond-1227", // Usually your GitHub org/user name.
   projectName: "docusaurus-site", // Usually your repo name.
@@ -142,6 +141,32 @@ const config = {
         respectPrefersColorScheme: true,
       },
     }),
+  markdown: {
+    format: "mdx",
+    mermaid: true,
+    emoji: true,
+    preprocessor: ({ filePath, fileContent }) => {
+      return fileContent.replaceAll("{{MY_VAR}}", "MY_VALUE");
+    },
+    parseFrontMatter: async (params) => {
+      const result = await params.defaultParseFrontMatter(params);
+      result.frontMatter.description =
+        result.frontMatter.description?.replaceAll("{{MY_VAR}}", "MY_VALUE");
+      return result;
+    },
+    mdx1Compat: {
+      comments: true,
+      admonitions: true,
+      headingIds: true,
+    },
+    anchors: {
+      maintainCase: true,
+    },
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+      onBrokenMarkdownImages: "throw",
+    },
+  },
 };
 
 module.exports = config;

@@ -7,6 +7,8 @@ tags: [hello, docusaurus]
 
 Hello! This is my Docusaurus website, I always wanted to have one, but I somehow managed to fail compiling the website and each time end up like trash, so I had to get help from [@AdminRAT](https://gitlab.com/AdminRAT) to help me compile a VuePress website which the archive is still available via [https://raymond-1227.gitlab.io](https://raymond-1227.gitlab.io).
 
+<!--truncate-->
+
 You might ask why would I replace the VuePress website with Docusaurus? Well, it's simple:
 - I don't like its design anymore
 - GitLab CI doesn't want to build the latest update

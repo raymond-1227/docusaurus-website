@@ -7,6 +7,8 @@ tags: [thoughts, consistent, decent, ui design]
 
 I hated inconsistent or trash UI design. Why? It's simple, I probably have OCD over bad designs.
 
+<!--truncate-->
+
 I don't get why none of the software companies never either respect the system UI's original design, or either make something HORRIBLE. For example, all the browsers that didn't came on your OS by default, they all have their own UI especially they replace native menu UIs with their own which creates a terrible experience when you use something on a specific system.
 
 Besides some disrespectful and inconsistent designs, I see both Apple and Microsoft makes the most consistent designs from what I see overall. Windows 10's Fluent Design System was a disaster, but at least Microsoft made Windows 11 pretty consistent (by what meant their consistency, check out their Windows 11 preview builds in Dev Channel for their latest UI updates.)

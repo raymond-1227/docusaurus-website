@@ -9,6 +9,8 @@ Hey, as I guaranteed, I will be actually using the blogging area to post some ra
 
 So let's just talk about my current life. I live in a place where you know, exams decide your future school, therefore also decides what your future is.
 
+<!--truncate-->
+
 I'd say I'm not a very good learner in school subjects considering I always get a B or B+ on most of the tests, which if you want good grades in order to go to a better school you need at least A or A+.
 
 In Taiwan, most of the junior high school student take the "Comprehensive Assessment Program for Junior High School Students" exam in order to enter your desired school via open admissions (which yes it's called "open admissions" method but students still have to compare exam scores to see which school you're eligible, smh), and the exam is around just 80 days before it starts, so I DON'T KNOW GIVE ME ANSWERS TO THE EXAMS PLEASE.
