@@ -136,7 +136,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Ziggy    | <GoldTitle>The Great</GoldTitle>              | <NeonTitle>Master of Thunder</NeonTitle>      |
 | Gigi     | <GoldTitle>Strung Up</GoldTitle>              | <NeonTitle>Ballerina</NeonTitle>              |
 | Glowbert | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
-| Najia    | TBD                                           | <NeonTitle>Snake Charmer</NeonTitle>          |
+| Najia    | <GoldTitle>Venomous</GoldTitle>          | <NeonTitle>Snake Charmer</NeonTitle>          |
 
 ## Legendary Brawlers
 
