@@ -83,7 +83,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Ash            | <GoldTitle>Trash Tier</GoldTitle>          | <NeonTitle>Trashy</NeonTitle>               |
 | Lola           | <GoldTitle>Drama Queen</GoldTitle>         | <NeonTitle>Diva</NeonTitle>                 |
 | Bonnie         | <GoldTitle>The Reckless</GoldTitle>        | <NeonTitle>Toothbreaker</NeonTitle>         |
-| Sam            | <GoldTitle>In your face!</GoldTitle>       | <NeonTitle>Top</NeonTitle>                  |
+| Sam            | <GoldTitle>In your face!</GoldTitle>       | <NeonTitle>Done & Dusted</NeonTitle>                  |
 | Mandy          | <GoldTitle>Tough Cookie</GoldTitle>        | <NeonTitle>FREE CANDY</NeonTitle>           |
 | Maisie         | <GoldTitle>Master of Disaster</GoldTitle>  | <NeonTitle>Pop and Lock</NeonTitle>         |
 | Hank           | <GoldTitle>Prawn Ready!</GoldTitle>        | <NeonTitle>Lil' Tenant</NeonTitle>          |
@@ -135,7 +135,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Mina     | <GoldTitle>The Hurricane</GoldTitle>          | <NeonTitle>Breakdancer</NeonTitle>            |
 | Ziggy    | <GoldTitle>The Great</GoldTitle>              | <NeonTitle>Master of Thunder</NeonTitle>      |
 | Gigi     | <GoldTitle>Strung Up</GoldTitle>              | <NeonTitle>Ballerina</NeonTitle>              |
-| Glowbert | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
+| Glowy    | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
 | Najia    | <GoldTitle>Venomous</GoldTitle>          | <NeonTitle>Snake Charmer</NeonTitle>          |
 
 ## Legendary Brawlers
