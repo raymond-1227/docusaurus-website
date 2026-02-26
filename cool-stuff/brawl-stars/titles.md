@@ -158,10 +158,10 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 
 ## Ultra Legendary Brawlers
 
-| Brawler | Prestige 1 Title             | Prestige 3 Title                      |
-| ------- | ---------------------------- | ------------------------------------- |
-| Kaze    | <GoldTitle>Ninja</GoldTitle> | <NeonTitle>Like the wind</NeonTitle>  |
-| Sirius  | TBD                          | <NeonTitle>In the shadows</NeonTitle> |
+| Brawler | Prestige 1 Title                    | Prestige 3 Title                      |
+| ------- | ----------------------------------- | ------------------------------------- |
+| Kaze    | <GoldTitle>Ninja</GoldTitle>        | <NeonTitle>Like the wind</NeonTitle>  |
+| Sirius  | <GoldTitle>The Banished</GoldTitle> | <NeonTitle>In the shadows</NeonTitle> |
 
 ## Time-Limited Brawlers
 
