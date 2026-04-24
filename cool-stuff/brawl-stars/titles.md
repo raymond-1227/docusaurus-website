@@ -138,7 +138,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Gigi       | <GoldTitle>Strung Up</GoldTitle>              | <NeonTitle>Ballerina</NeonTitle>              |
 | Glowy      | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
 | Najia      | <GoldTitle>Venomous</GoldTitle>               | <NeonTitle>Snake Charmer</NeonTitle>          |
-| Damian     | <GoldTitle>The bear says YEAH!</GoldTitle>    | <NeonTitle>Gladiator</NeonTitle>              |
+| Damian     | <GoldTitle>The beat says YEAH!</GoldTitle>    | <NeonTitle>Gladiator</NeonTitle>              |
 | Starr Nova | <GoldTitle>Magical</GoldTitle>                | <NeonTitle>Anime Fan</NeonTitle>              |
 
 ## Legendary Brawlers
