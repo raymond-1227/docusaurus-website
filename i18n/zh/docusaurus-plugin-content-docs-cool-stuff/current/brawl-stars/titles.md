@@ -96,49 +96,52 @@ import NeonTitle from '@site/src/components/NeonTitle';
 | 謝德       | <GoldTitle>恐怖幽影</GoldTitle>     | <NeonTitle>查無此人</NeonTitle>       |
 | 謎寶       | <GoldTitle>作弊大師</GoldTitle>     | <NeonTitle>你作弊？</NeonTitle>       |
 | 特朗克     | <GoldTitle>「蟻」心控</GoldTitle>   | <NeonTitle>全是木頭</NeonTitle>       |
+| 博爾特     | <GoldTitle>球星</GoldTitle>         | <NeonTitle>球王</NeonTitle>           |
 
 ## 神話英雄
 
-| 英雄   | 巔峰威望等級 1 稱號                 | 巔峰威望等級 3 稱號                 |
-| ------ | ----------------------------------- | ----------------------------------- |
-| 莫提斯 | <GoldTitle>暗夜行者</GoldTitle>     | <NeonTitle>末日使者</NeonTitle>     |
-| 塔拉   | <GoldTitle>卡牌奧秘</GoldTitle>     | <NeonTitle>末路先知</NeonTitle>     |
-| 吉恩   | <GoldTitle>精靈魔手</GoldTitle>     | <NeonTitle>生拉硬拽</NeonTitle>     |
-| Mr. P  | <GoldTitle>Boss</GoldTitle>         | <NeonTitle>極地之王</NeonTitle>     |
-| 麥克斯 | <GoldTitle>我就是速度！</GoldTitle> | <NeonTitle>疾速先鋒</NeonTitle>     |
-| 芽芽   | <GoldTitle>環保魔人</GoldTitle>     | <NeonTitle>滿滿的愛</NeonTitle>     |
-| 阿魯   | <GoldTitle>在你身旁！</GoldTitle>   | <NeonTitle>涼透了</NeonTitle>       |
-| 拜倫   | <GoldTitle>絕命藥師</GoldTitle>     | <NeonTitle>安心上路</NeonTitle>     |
-| 拉夫   | <GoldTitle>上校</GoldTitle>         | <NeonTitle>頭號猛犬</NeonTitle>     |
-| 史威克 | <GoldTitle>意外之作</GoldTitle>     | <NeonTitle>黏人精</NeonTitle>       |
-| 霸子   | <GoldTitle>天生狂野</GoldTitle>     | <NeonTitle>多喝水</NeonTitle>       |
-| 范     | <GoldTitle>球鞋愛好者</GoldTitle>   | <NeonTitle>一腳超人</NeonTitle>     |
-| 異芙   | <GoldTitle>異形之母</GoldTitle>     | <NeonTitle>媽媽</NeonTitle>         |
-| 珍娜   | <GoldTitle>火箭飛人</GoldTitle>     | <NeonTitle>大姐姐</NeonTitle>       |
-| 歐提斯 | <GoldTitle>大藝術家</GoldTitle>     | <NeonTitle>請你閉嘴</NeonTitle>     |
-| 巴斯特 | <GoldTitle>票房保證</GoldTitle>     | <NeonTitle>這才叫電影</NeonTitle>   |
-| 蓋瑞   | <GoldTitle>黑白魅影</GoldTitle>     | <NeonTitle>保持安靜</NeonTitle>     |
-| R-T    | <GoldTitle>監視者</GoldTitle>       | <NeonTitle>正在監視你</NeonTitle>   |
-| 葳洛   | <GoldTitle>直擊心靈！</GoldTitle>   | <NeonTitle>控制狂</NeonTitle>       |
-| 道格   | <GoldTitle>熱狗大亨</GoldTitle>     | <NeonTitle>「腸」勝將軍</NeonTitle> |
-| 查克   | <GoldTitle>指揮大師</GoldTitle>     | <NeonTitle>永遠不回頭</NeonTitle>   |
-| 查莉   | <GoldTitle>驚豔全場</GoldTitle>     | <NeonTitle>萬眾焦點</NeonTitle>     |
-| 米可   | <GoldTitle>是在笑什麼！</GoldTitle> | <NeonTitle>「蕉」躁不安</NeonTitle> |
-| 美樂蒂 | <GoldTitle>卡拉永遠OK</GoldTitle>   | <NeonTitle>餘音繞樑</NeonTitle>     |
-| 莉莉   | <GoldTitle>背刺狂魔</GoldTitle>     | <NeonTitle>在你後面</NeonTitle>     |
-| 克蘭西 | <GoldTitle>蝦兵蟹將</GoldTitle>     | <NeonTitle>絕不留情</NeonTitle>     |
-| 莫     | <GoldTitle>土裡土氣</GoldTitle>     | <NeonTitle>笑出大兔牙</NeonTitle>   |
-| 茱茱   | <GoldTitle>咒術之王</GoldTitle>     | <NeonTitle>潛伏的魔鬼</NeonTitle>   |
-| 奧利   | <GoldTitle>街頭玩家</GoldTitle>     | <NeonTitle>滑板天才</NeonTitle>     |
-| 露米   | <GoldTitle>搖滾狂人</GoldTitle>     | <NeonTitle>忽冷忽熱</NeonTitle>     |
-| 芬克斯 | <GoldTitle>浪費我時間！</GoldTitle> | <NeonTitle>滿腦子都是貓</NeonTitle> |
-| 載勇   | <GoldTitle>樂天知命</GoldTitle>     | <NeonTitle>本月優秀員工</NeonTitle> |
-| 艾麗   | <GoldTitle>鱷魚的眼淚</GoldTitle>   | <NeonTitle>跟蹤狂</NeonTitle>       |
-| 蜜娜   | <GoldTitle>颶風</GoldTitle>         | <NeonTitle>舞力全開</NeonTitle>     |
-| 茲奇   | <GoldTitle>大魔術師</GoldTitle>     | <NeonTitle>雷霆主宰</NeonTitle>     |
-| 琪琪   | <GoldTitle>你也想跳舞嗎</GoldTitle> | <NeonTitle>芭蕾名伶</NeonTitle>     |
-| 格魯伊 | <GoldTitle>不可名狀之物</GoldTitle> | <NeonTitle>線上徵友</NeonTitle>     |
-| 娜吉亞 | 我不知道                            | <NeonTitle>耍蛇人</NeonTitle>       |
+| 英雄     | 巔峰威望等級 1 稱號                 | 巔峰威望等級 3 稱號                 |
+| -------- | ----------------------------------- | ----------------------------------- |
+| 莫提斯   | <GoldTitle>暗夜行者</GoldTitle>     | <NeonTitle>末日使者</NeonTitle>     |
+| 塔拉     | <GoldTitle>卡牌奧秘</GoldTitle>     | <NeonTitle>末路先知</NeonTitle>     |
+| 吉恩     | <GoldTitle>精靈魔手</GoldTitle>     | <NeonTitle>生拉硬拽</NeonTitle>     |
+| Mr. P    | <GoldTitle>Boss</GoldTitle>         | <NeonTitle>極地之王</NeonTitle>     |
+| 麥克斯   | <GoldTitle>我就是速度！</GoldTitle> | <NeonTitle>疾速先鋒</NeonTitle>     |
+| 芽芽     | <GoldTitle>環保魔人</GoldTitle>     | <NeonTitle>滿滿的愛</NeonTitle>     |
+| 阿魯     | <GoldTitle>在你身旁！</GoldTitle>   | <NeonTitle>涼透了</NeonTitle>       |
+| 拜倫     | <GoldTitle>絕命藥師</GoldTitle>     | <NeonTitle>安心上路</NeonTitle>     |
+| 拉夫     | <GoldTitle>上校</GoldTitle>         | <NeonTitle>頭號猛犬</NeonTitle>     |
+| 史威克   | <GoldTitle>意外之作</GoldTitle>     | <NeonTitle>黏人精</NeonTitle>       |
+| 霸子     | <GoldTitle>天生狂野</GoldTitle>     | <NeonTitle>多喝水</NeonTitle>       |
+| 范       | <GoldTitle>球鞋愛好者</GoldTitle>   | <NeonTitle>一腳超人</NeonTitle>     |
+| 異芙     | <GoldTitle>異形之母</GoldTitle>     | <NeonTitle>媽媽</NeonTitle>         |
+| 珍娜     | <GoldTitle>火箭飛人</GoldTitle>     | <NeonTitle>大姐姐</NeonTitle>       |
+| 歐提斯   | <GoldTitle>大藝術家</GoldTitle>     | <NeonTitle>請你閉嘴</NeonTitle>     |
+| 巴斯特   | <GoldTitle>票房保證</GoldTitle>     | <NeonTitle>這才叫電影</NeonTitle>   |
+| 蓋瑞     | <GoldTitle>黑白魅影</GoldTitle>     | <NeonTitle>保持安靜</NeonTitle>     |
+| R-T      | <GoldTitle>監視者</GoldTitle>       | <NeonTitle>正在監視你</NeonTitle>   |
+| 葳洛     | <GoldTitle>直擊心靈！</GoldTitle>   | <NeonTitle>控制狂</NeonTitle>       |
+| 道格     | <GoldTitle>熱狗大亨</GoldTitle>     | <NeonTitle>「腸」勝將軍</NeonTitle> |
+| 查克     | <GoldTitle>指揮大師</GoldTitle>     | <NeonTitle>永遠不回頭</NeonTitle>   |
+| 查莉     | <GoldTitle>驚豔全場</GoldTitle>     | <NeonTitle>萬眾焦點</NeonTitle>     |
+| 米可     | <GoldTitle>是在笑什麼！</GoldTitle> | <NeonTitle>「蕉」躁不安</NeonTitle> |
+| 美樂蒂   | <GoldTitle>卡拉永遠OK</GoldTitle>   | <NeonTitle>餘音繞樑</NeonTitle>     |
+| 莉莉     | <GoldTitle>背刺狂魔</GoldTitle>     | <NeonTitle>在你後面</NeonTitle>     |
+| 克蘭西   | <GoldTitle>蝦兵蟹將</GoldTitle>     | <NeonTitle>絕不留情</NeonTitle>     |
+| 莫       | <GoldTitle>土裡土氣</GoldTitle>     | <NeonTitle>笑出大兔牙</NeonTitle>   |
+| 茱茱     | <GoldTitle>咒術之王</GoldTitle>     | <NeonTitle>潛伏的魔鬼</NeonTitle>   |
+| 奧利     | <GoldTitle>街頭玩家</GoldTitle>     | <NeonTitle>滑板天才</NeonTitle>     |
+| 露米     | <GoldTitle>搖滾狂人</GoldTitle>     | <NeonTitle>忽冷忽熱</NeonTitle>     |
+| 芬克斯   | <GoldTitle>浪費我時間！</GoldTitle> | <NeonTitle>滿腦子都是貓</NeonTitle> |
+| 載勇     | <GoldTitle>樂天知命</GoldTitle>     | <NeonTitle>本月優秀員工</NeonTitle> |
+| 艾麗     | <GoldTitle>鱷魚的眼淚</GoldTitle>   | <NeonTitle>跟蹤狂</NeonTitle>       |
+| 蜜娜     | <GoldTitle>颶風</GoldTitle>         | <NeonTitle>舞力全開</NeonTitle>     |
+| 茲奇     | <GoldTitle>大魔術師</GoldTitle>     | <NeonTitle>雷霆主宰</NeonTitle>     |
+| 琪琪     | <GoldTitle>你也想跳舞嗎</GoldTitle> | <NeonTitle>芭蕾名伶</NeonTitle>     |
+| 格魯伊   | <GoldTitle>不可名狀之物</GoldTitle> | <NeonTitle>線上徵友</NeonTitle>     |
+| 娜吉亞   | <GoldTitle>見血封喉</GoldTitle>     | <NeonTitle>耍蛇人</NeonTitle>       |
+| 達米安   | <GoldTitle>鋼鐵之心</GoldTitle>     | <NeonTitle>神鬼鬥士</NeonTitle>     |
+| 斯塔諾娃 | <GoldTitle>正義使者！</GoldTitle>   | <NeonTitle>動漫宅</NeonTitle>       |
 
 ## 傳奇英雄
 
