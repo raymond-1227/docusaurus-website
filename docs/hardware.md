@@ -24,7 +24,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: QHD IR camera (Built-in)
 
-**Operating System**: Windows 11 Home 25H2
+**Operating System**: Windows 11 Pro 25H2
 
 ### Desktop
 
@@ -72,7 +72,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 26.3
+**Operating System**: iOS 26.4.2
 
 ### Phone 2
 
@@ -106,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 26.3
+**Operating System**: iPadOS 26.4.2
 
 ### Wearable
 
