@@ -94,49 +94,52 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Shade          | <GoldTitle>Ghosted</GoldTitle>             | <NeonTitle>Ghosting you</NeonTitle>         |
 | Meeple         | <GoldTitle>Cheater</GoldTitle>             | <NeonTitle>My game, my rules!</NeonTitle>   |
 | Trunk          | <GoldTitle>Controlled by Ants</GoldTitle>  | <NeonTitle>We are Trunk!</NeonTitle>        |
+| Bolt           | <GoldTitle>Baller</GoldTitle>              | <NeonTitle>Battle Bumper</NeonTitle>        |
 
 ## Mythic Brawlers
 
-| Brawler  | Prestige 1 Title                              | Prestige 3 Title                              |
-| -------- | --------------------------------------------- | --------------------------------------------- |
-| Mortis   | <GoldTitle>Creature of the Night</GoldTitle>  | <NeonTitle>Bringer of Doom</NeonTitle>        |
-| Tara     | <GoldTitle>What's in the cards?</GoldTitle>   | <NeonTitle>Future Demise</NeonTitle>          |
-| Gene     | <GoldTitle>Talk to the Hand!</GoldTitle>      | <NeonTitle>Ablablababa</NeonTitle>            |
-| Mr. P    | <GoldTitle>The Boss</GoldTitle>               | <NeonTitle>The biggest bird</NeonTitle>       |
-| Max      | <GoldTitle>I AM SPEED!</GoldTitle>            | <NeonTitle>Too fast</NeonTitle>               |
-| Sprout   | <GoldTitle>Tree hugger</GoldTitle>            | <NeonTitle>With love</NeonTitle>              |
-| Lou      | <GoldTitle>is here for you!</GoldTitle>       | <NeonTitle>Brainfreeze</NeonTitle>            |
-| Byron    | <GoldTitle>The Sensational</GoldTitle>        | <NeonTitle>Will end you</NeonTitle>           |
-| Ruffs    | <GoldTitle>Colonel</GoldTitle>                | <NeonTitle>Dog</NeonTitle>                    |
-| Squeak   | <GoldTitle>is an accident</GoldTitle>         | <NeonTitle>Squishy</NeonTitle>                |
-| Buzz     | <GoldTitle>Born bad</GoldTitle>               | <NeonTitle>Stay Hydrated</NeonTitle>          |
-| Fang     | <GoldTitle>Sneaker Artist</GoldTitle>         | <NeonTitle>One Kick Man</NeonTitle>           |
-| Eve      | <GoldTitle>Mother</GoldTitle>                 | <NeonTitle>Mommy</NeonTitle>                  |
-| Janet    | <GoldTitle>The Rocket</GoldTitle>             | <NeonTitle>Big sis</NeonTitle>                |
-| Otis     | <GoldTitle>The Artist</GoldTitle>             | <NeonTitle>Muted</NeonTitle>                  |
-| Buster   | <GoldTitle>Blockbuster</GoldTitle>            | <NeonTitle>Absolute Cinema</NeonTitle>        |
-| Gray     | <GoldTitle>The Shady</GoldTitle>              | <NeonTitle>Shhhh!</NeonTitle>                 |
-| R-T      | <GoldTitle>The Watcher</GoldTitle>            | <NeonTitle>Watching you</NeonTitle>           |
-| Willow   | <GoldTitle>Is in your head!</GoldTitle>       | <NeonTitle>Control Freak</NeonTitle>          |
-| Doug     | <GoldTitle>Wiener</GoldTitle>                 | <NeonTitle>Chill, bro</NeonTitle>             |
-| Chuck    | <GoldTitle>The Maestro</GoldTitle>            | <NeonTitle>Can't Stop, Won't Stop</NeonTitle> |
-| Charlie  | <GoldTitle>The Amazing</GoldTitle>            | <NeonTitle>Main Attraction</NeonTitle>        |
-| Mico     | <GoldTitle>Am I a joke to you?</GoldTitle>    | <NeonTitle>Going Bananas</NeonTitle>          |
-| Melodie  | <GoldTitle>Fearless</GoldTitle>               | <NeonTitle>Melodian</NeonTitle>               |
-| Lily     | <GoldTitle>Backstabber</GoldTitle>            | <NeonTitle>Right behind you</NeonTitle>       |
-| Clancy   | <GoldTitle>Shell Shocked</GoldTitle>          | <NeonTitle>No Mercy</NeonTitle>               |
-| Moe      | <GoldTitle>Cheesy</GoldTitle>                 | <NeonTitle>Say cheese!</NeonTitle>            |
-| Juju     | <GoldTitle>Hexed</GoldTitle>                  | <NeonTitle>Devil in Disguise</NeonTitle>      |
-| Ollie    | <GoldTitle>Based</GoldTitle>                  | <NeonTitle>Pro Skater</NeonTitle>             |
-| Lumi     | <GoldTitle>Headbanger</GoldTitle>             | <NeonTitle>Hot & Cold</NeonTitle>             |
-| Finx     | <GoldTitle>Waste of time</GoldTitle>          | <NeonTitle>Cat Lover</NeonTitle>              |
-| Jae-yong | <GoldTitle>Amor Fati</GoldTitle>              | <NeonTitle>Employee of the month</NeonTitle>  |
-| Alli     | <GoldTitle>See You Later</GoldTitle>          | <NeonTitle>Stalker</NeonTitle>                |
-| Mina     | <GoldTitle>The Hurricane</GoldTitle>          | <NeonTitle>Breakdancer</NeonTitle>            |
-| Ziggy    | <GoldTitle>The Great</GoldTitle>              | <NeonTitle>Master of Thunder</NeonTitle>      |
-| Gigi     | <GoldTitle>Strung Up</GoldTitle>              | <NeonTitle>Ballerina</NeonTitle>              |
-| Glowy    | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
-| Najia    | <GoldTitle>Venomous</GoldTitle>               | <NeonTitle>Snake Charmer</NeonTitle>          |
+| Brawler    | Prestige 1 Title                              | Prestige 3 Title                              |
+| ---------- | --------------------------------------------- | --------------------------------------------- |
+| Mortis     | <GoldTitle>Creature of the Night</GoldTitle>  | <NeonTitle>Bringer of Doom</NeonTitle>        |
+| Tara       | <GoldTitle>What's in the cards?</GoldTitle>   | <NeonTitle>Future Demise</NeonTitle>          |
+| Gene       | <GoldTitle>Talk to the Hand!</GoldTitle>      | <NeonTitle>Ablablababa</NeonTitle>            |
+| Mr. P      | <GoldTitle>The Boss</GoldTitle>               | <NeonTitle>The biggest bird</NeonTitle>       |
+| Max        | <GoldTitle>I AM SPEED!</GoldTitle>            | <NeonTitle>Too fast</NeonTitle>               |
+| Sprout     | <GoldTitle>Tree hugger</GoldTitle>            | <NeonTitle>With love</NeonTitle>              |
+| Lou        | <GoldTitle>is here for you!</GoldTitle>       | <NeonTitle>Brainfreeze</NeonTitle>            |
+| Byron      | <GoldTitle>The Sensational</GoldTitle>        | <NeonTitle>Will end you</NeonTitle>           |
+| Ruffs      | <GoldTitle>Colonel</GoldTitle>                | <NeonTitle>Dog</NeonTitle>                    |
+| Squeak     | <GoldTitle>is an accident</GoldTitle>         | <NeonTitle>Squishy</NeonTitle>                |
+| Buzz       | <GoldTitle>Born bad</GoldTitle>               | <NeonTitle>Stay Hydrated</NeonTitle>          |
+| Fang       | <GoldTitle>Sneaker Artist</GoldTitle>         | <NeonTitle>One Kick Man</NeonTitle>           |
+| Eve        | <GoldTitle>Mother</GoldTitle>                 | <NeonTitle>Mommy</NeonTitle>                  |
+| Janet      | <GoldTitle>The Rocket</GoldTitle>             | <NeonTitle>Big sis</NeonTitle>                |
+| Otis       | <GoldTitle>The Artist</GoldTitle>             | <NeonTitle>Muted</NeonTitle>                  |
+| Buster     | <GoldTitle>Blockbuster</GoldTitle>            | <NeonTitle>Absolute Cinema</NeonTitle>        |
+| Gray       | <GoldTitle>The Shady</GoldTitle>              | <NeonTitle>Shhhh!</NeonTitle>                 |
+| R-T        | <GoldTitle>The Watcher</GoldTitle>            | <NeonTitle>Watching you</NeonTitle>           |
+| Willow     | <GoldTitle>Is in your head!</GoldTitle>       | <NeonTitle>Control Freak</NeonTitle>          |
+| Doug       | <GoldTitle>Wiener</GoldTitle>                 | <NeonTitle>Chill, bro</NeonTitle>             |
+| Chuck      | <GoldTitle>The Maestro</GoldTitle>            | <NeonTitle>Can't Stop, Won't Stop</NeonTitle> |
+| Charlie    | <GoldTitle>The Amazing</GoldTitle>            | <NeonTitle>Main Attraction</NeonTitle>        |
+| Mico       | <GoldTitle>Am I a joke to you?</GoldTitle>    | <NeonTitle>Going Bananas</NeonTitle>          |
+| Melodie    | <GoldTitle>Fearless</GoldTitle>               | <NeonTitle>Melodian</NeonTitle>               |
+| Lily       | <GoldTitle>Backstabber</GoldTitle>            | <NeonTitle>Right behind you</NeonTitle>       |
+| Clancy     | <GoldTitle>Shell Shocked</GoldTitle>          | <NeonTitle>No Mercy</NeonTitle>               |
+| Moe        | <GoldTitle>Cheesy</GoldTitle>                 | <NeonTitle>Say cheese!</NeonTitle>            |
+| Juju       | <GoldTitle>Hexed</GoldTitle>                  | <NeonTitle>Devil in Disguise</NeonTitle>      |
+| Ollie      | <GoldTitle>Based</GoldTitle>                  | <NeonTitle>Pro Skater</NeonTitle>             |
+| Lumi       | <GoldTitle>Headbanger</GoldTitle>             | <NeonTitle>Hot & Cold</NeonTitle>             |
+| Finx       | <GoldTitle>Waste of time</GoldTitle>          | <NeonTitle>Cat Lover</NeonTitle>              |
+| Jae-yong   | <GoldTitle>Amor Fati</GoldTitle>              | <NeonTitle>Employee of the month</NeonTitle>  |
+| Alli       | <GoldTitle>See You Later</GoldTitle>          | <NeonTitle>Stalker</NeonTitle>                |
+| Mina       | <GoldTitle>The Hurricane</GoldTitle>          | <NeonTitle>Breakdancer</NeonTitle>            |
+| Ziggy      | <GoldTitle>The Great</GoldTitle>              | <NeonTitle>Master of Thunder</NeonTitle>      |
+| Gigi       | <GoldTitle>Strung Up</GoldTitle>              | <NeonTitle>Ballerina</NeonTitle>              |
+| Glowy      | <GoldTitle>Sleeps with the fishes</GoldTitle> | <NeonTitle>Needs a friend</NeonTitle>         |
+| Najia      | <GoldTitle>Venomous</GoldTitle>               | <NeonTitle>Snake Charmer</NeonTitle>          |
+| Damian     | <GoldTitle>The bear says YEAH!</GoldTitle>    | <NeonTitle>Gladiator</NeonTitle>              |
+| Starr Nova | <GoldTitle>Magical</GoldTitle>                | <NeonTitle>Anime Fan</NeonTitle>              |
 
 ## Legendary Brawlers
 
