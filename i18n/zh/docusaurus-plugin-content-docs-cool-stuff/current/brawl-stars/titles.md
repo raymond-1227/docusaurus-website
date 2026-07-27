@@ -142,6 +142,7 @@ import NeonTitle from '@site/src/components/NeonTitle';
 | 娜吉亞   | <GoldTitle>見血封喉</GoldTitle>     | <NeonTitle>耍蛇人</NeonTitle>       |
 | 達米安   | <GoldTitle>鋼鐵之心</GoldTitle>     | <NeonTitle>神鬼鬥士</NeonTitle>     |
 | 斯塔諾娃 | <GoldTitle>正義使者！</GoldTitle>   | <NeonTitle>動漫宅</NeonTitle>       |
+| 溫蒂     | <GoldTitle>狂風呼嘯</GoldTitle>     | <NeonTitle>環保主義！</NeonTitle>   |
 
 ## 傳奇英雄
 
@@ -160,6 +161,7 @@ import NeonTitle from '@site/src/components/NeonTitle';
 | 德拉古   | <GoldTitle>地下城主</GoldTitle>    | <NeonTitle>搖滾主宰</NeonTitle>     |
 | 賢治     | <GoldTitle>武士</GoldTitle>        | <NeonTitle>一刀兩斷</NeonTitle>     |
 | 皮爾斯   | <GoldTitle>泳池小秘密</GoldTitle>  | <NeonTitle>鐵面無情</NeonTitle>     |
+| 憲       | <GoldTitle>刃之子</GoldTitle>      | <NeonTitle>摸魚中</NeonTitle>       |
 
 ## 超凡英雄
 

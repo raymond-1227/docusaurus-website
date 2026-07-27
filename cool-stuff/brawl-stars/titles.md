@@ -140,6 +140,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Najia      | <GoldTitle>Venomous</GoldTitle>               | <NeonTitle>Snake Charmer</NeonTitle>          |
 | Damian     | <GoldTitle>The beat says YEAH!</GoldTitle>    | <NeonTitle>Gladiator</NeonTitle>              |
 | Starr Nova | <GoldTitle>Magical</GoldTitle>                | <NeonTitle>Anime Fan</NeonTitle>              |
+| Wendy      | <GoldTitle>Blows you away</GoldTitle>         | <NeonTitle>Go Green!</NeonTitle>              |
 
 ## Legendary Brawlers
 
@@ -158,6 +159,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Draco     | <GoldTitle>Dungeon Master</GoldTitle>     | <NeonTitle>Master of Metal</NeonTitle>   |
 | Kenji     | <GoldTitle>Samurai</GoldTitle>            | <NeonTitle>Chopped</NeonTitle>           |
 | Pierce    | <GoldTitle>Peed in the pool</GoldTitle>   | <NeonTitle>Bad cop</NeonTitle>           |
+| Nori      | <GoldTitle>Katana Kid</GoldTitle>         | <NeonTitle>Gone Fishin'</NeonTitle>      |
 
 ## Ultra Legendary Brawlers
 
