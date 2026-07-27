@@ -42,7 +42,7 @@ sidebar_position: 2
 
 **網路攝影機**: FaceTime HD 相機（內建）
 
-**作業系統**: macOS Sequoia 15.7.4 | Windows 11 專業版 23H2 (Boot Camp)
+**作業系統**: macOS Sequoia 15.7.7 | Windows 11 專業版 23H2 (Boot Camp)
 
 ### 電腦配件
 
@@ -72,7 +72,7 @@ sidebar_position: 2
 
 **相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + 自拍 (12 MP 原深感測)
 
-**作業系統**: iOS 26.3
+**作業系統**: iOS 26.5.2
 
 ### 手機 2
 
@@ -90,7 +90,7 @@ sidebar_position: 2
 
 **相機**: 後攝像 (12.2 MP 主鏡頭, 12 MP 超廣角) + 自拍 (8 MP)
 
-**作業系統**: Android 16
+**作業系統**: Android 17
 
 ### 平板電腦
 
@@ -106,7 +106,7 @@ sidebar_position: 2
 
 **相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
 
-**作業系統**: iPadOS 26.3
+**作業系統**: iPadOS 26.5.2
 
 ### 穿戴裝置
 
