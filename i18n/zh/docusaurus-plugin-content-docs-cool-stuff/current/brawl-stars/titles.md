@@ -143,6 +143,8 @@ import NeonTitle from '@site/src/components/NeonTitle';
 | 達米安   | <GoldTitle>鋼鐵之心</GoldTitle>     | <NeonTitle>神鬼鬥士</NeonTitle>     |
 | 斯塔諾娃 | <GoldTitle>正義使者！</GoldTitle>   | <NeonTitle>動漫宅</NeonTitle>       |
 | 溫蒂     | <GoldTitle>狂風呼嘯</GoldTitle>     | <NeonTitle>環保主義！</NeonTitle>   |
+| 科斯莫   | <GoldTitle>天外之物</GoldTitle>     | <NeonTitle>星空守望者</NeonTitle>   |
+| 文斯     | <GoldTitle>蠱惑仔</GoldTitle>       | <NeonTitle>蟲蟲危機</NeonTitle>     |
 
 ## 傳奇英雄
 

@@ -141,6 +141,8 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Damian     | <GoldTitle>The beat says YEAH!</GoldTitle>    | <NeonTitle>Gladiator</NeonTitle>              |
 | Starr Nova | <GoldTitle>Magical</GoldTitle>                | <NeonTitle>Anime Fan</NeonTitle>              |
 | Wendy      | <GoldTitle>Blows you away</GoldTitle>         | <NeonTitle>Go Green!</NeonTitle>              |
+| Cosmo      | <GoldTitle>Out of this World</GoldTitle>      | <NeonTitle>Stargazer</NeonTitle>              |
+| Vince      | <GoldTitle>Creepy</GoldTitle>                 | <NeonTitle>Buggin' Out</NeonTitle>            |
 
 ## Legendary Brawlers
 

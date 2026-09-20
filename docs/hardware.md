@@ -42,7 +42,7 @@ Here are the computer and phone specs which I use every day.
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sequoia 15.7.7 | Windows 11 Pro 23H2 (Boot Camp)
+**Operating System**: macOS Sequoia 15.8
 
 ### Computer Accessories
 
@@ -72,7 +72,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 26.5.2
+**Operating System**: iOS 27.0
 
 ### Phone 2
 
@@ -106,7 +106,7 @@ Here are the computer and phone specs which I use every day.
 
 **Camera**: Rear (8 MP) + Selfie (1.2 MP)
 
-**Operating System**: iPadOS 26.5.2
+**Operating System**: iPadOS 27.0
 
 ### Wearable
 
