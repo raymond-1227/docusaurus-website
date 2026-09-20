@@ -14,13 +14,13 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.9.2",
-    "@docusaurus/preset-classic": "^3.9.2",
+    "@docusaurus/core": "^3.10.2",
+    "@docusaurus/preset-classic": "^3.10.2",
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   },
   "browserslist": {
     "production": [
@@ -35,6 +35,10 @@
     ]
   },
   "devDependencies": {
-    "baseline-browser-mapping": "^2.10.0"
+    "baseline-browser-mapping": "^2.11.25"
+  },
+  "allowScripts": {
+    "core-js@3.44.0": true,
+    "fsevents@2.3.3": true
   }
 }
