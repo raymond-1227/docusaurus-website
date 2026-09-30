@@ -36,7 +36,7 @@ Here are the computer and phone specs which I use every day.
 
 **GPU**: Intel Arc 140V (16GB Dynamic Shared Memory)
 
-**RAM**: 32GB 8533 MHz LPDDR5X
+**RAM**: 32GB 8533 MHz On-Package LPDDR5X
 
 **Storage**: 1TB SK hynix Platinum P41 NVMe SSD + 1TB WD PC SN5000S NVMe SSD
 
@@ -66,7 +66,7 @@ Here are the computer and phone specs which I use every day.
 
 **Chipset**: Apple A17 Pro (2x3.78 GHz P-core & 4x2.11 GHz E-core)
 
-**RAM**: 8GB LPDDR5
+**RAM**: 8GB On-Package LPDDR5
 
 **Storage**: 256GB NVMe Flash
 
@@ -84,7 +84,7 @@ Here are the computer and phone specs which I use every day.
 
 **GPU**: Arm Mali-G78 MP20
 
-**RAM**: 6GB LPDDR5
+**RAM**: 6GB On-Package LPDDR5
 
 **Storage**: 128GB UFS 3.1
 
@@ -102,7 +102,7 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: 256GB NVMe Flash
 
-**RAM**: 12GB LPDDR5X
+**RAM**: 12GB On-Package LPDDR5X
 
 **Camera**: Rear (12 MP & LiDAR) + Selfie (12 MP TrueDepth)
 

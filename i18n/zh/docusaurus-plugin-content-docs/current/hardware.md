@@ -66,7 +66,7 @@ sidebar_position: 2
 
 **晶片**: Apple A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
 
-**記憶體**: 8GB LPDDR5
+**記憶體**: 8GB On-Package LPDDR5
 
 **儲存空間**: 256GB NVMe 快閃記憶體
 
@@ -84,7 +84,7 @@ sidebar_position: 2
 
 **顯示晶片**: Arm Mali-G78 MP20
 
-**記憶體**: 8GB LPDDR5
+**記憶體**: 8GB On-Package LPDDR5
 
 **儲存空間**: 128GB UFS 3.1
 
@@ -102,7 +102,7 @@ sidebar_position: 2
 
 **儲存空間**: 256GB NVMe 快閃記憶體
 
-**記憶體**: 12GB LPDDR5X
+**記憶體**: 12GB On-Package LPDDR5X
 
 **相機**: 後攝像 (12 MP & LiDAR) + 自拍 (12 MP 原深感測)
 
