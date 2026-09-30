@@ -8,6 +8,24 @@ sidebar_position: 2
 
 ## 電腦規格
 
+### 桌機
+
+**型號**: Apple iMac (Retina 5K，27 吋，2019) (A2115)
+
+**製造年份**: 2020 年中
+
+**中央處理器**: Intel Core i5-8500
+
+**顯示晶片**: AMD Radeon Pro 570X (4GB GDDR5 顯示記憶體)
+
+**記憶體**: 40GB 2667 MHz SO-DIMM DDR4 (4GB x2 + 16GB x2)
+
+**儲存空間**: 2TB 融合硬碟 + 4TB WD My Book 外接硬碟（時光機備份專用）
+
+**網路攝影機**: FaceTime HD 相機（內建）
+
+**作業系統**: macOS Sequoia 15.8.1
+
 ### 筆電
 
 **型號**: Acer Swift 16 AI (SF16-51-75BA)
@@ -16,39 +34,21 @@ sidebar_position: 2
 
 **中央處理器**: Intel Core Ultra 7 258V
 
-**顯示晶片**: Intel Arc 140V
+**顯示晶片**: Intel Arc 140V (16GB 共享記憶體)
 
 **記憶體**: 32GB 8533 MHz LPDDR5X
 
-**儲存空間**: SK hynix Platinum P41 1TB + WD PC SN5000S 1TB
+**儲存空間**: 1TB SK hynix Platinum P41 NVMe SSD + 1TB WD PC SN5000S NVMe SSD
 
 **網路攝影機**: QHD IR 相機（內建）
 
-**作業系統**: Windows 11 專業版 25H2
-
-### 桌機
-
-**型號**: Apple iMac (Retina 5K, 27吋, 2019) (A2115)
-
-**製造年份**: 2020 年中
-
-**中央處理器**: Intel Core i5-8500
-
-**顯示晶片**: AMD Radeon Pro 570X 搭載 4GB GDDR5 顯示記憶體
-
-**記憶體**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
-
-**儲存空間**: 融合硬碟 2TB + WD My Book 4TB（時光機備份專用）
-
-**網路攝影機**: FaceTime HD 相機（內建）
-
-**作業系統**: macOS Sequoia 15.8
+**作業系統**: Windows 11 專業版 26H2
 
 ### 電腦配件
 
 **鍵盤**: 巧控鍵盤含數字鍵盤（明顯地很多 Windows 鍵盤都和 Mac 所使用的鍵盤佈局差異頗大）
 
-**滑鼠**: 巧控滑鼠 2（我知道很多人因為它的設計完全不符合人體工學所以討厭，但我個人滿喜歡手勢操作的功能）/ 羅技 M110 靜音有線滑鼠 / 羅技 Signature Plus M750 L 靜音無線滑鼠
+**滑鼠**: 巧控滑鼠 2（我知道不少人討厭它是因為設計很不符人體工學，但我個人滿喜歡其手勢操作邏輯）/ 羅技 M110 靜音有線滑鼠 / 羅技 Signature Plus M750 L 靜音無線滑鼠
 
 **耳機**: AKG K702 錄音室監聽耳機 / Roland RH-A30 監聽耳機
 
@@ -62,17 +62,17 @@ sidebar_position: 2
 
 **型號**: Apple iPhone 15 Pro Max (A3106)
 
-**製造年份**: 2023 年末
+**製造年份**: 2023 年中
 
-**晶片**: Apple APL1V02 A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
+**晶片**: Apple A17 Pro (2x3.78 GHz 效能核心 & 4x2.11 GHz 節能核心)
 
 **記憶體**: 8GB LPDDR5
 
-**儲存空間**: 256GB NVMe
+**儲存空間**: 256GB NVMe 快閃記憶體
 
-**相機**: 後攝像 (48 MP 主鏡頭, 12 MP 超廣角, 12MP 望遠, LiDAR) + 自拍 (12 MP 原深感測)
+**相機**: 後攝像 (48 MP 主鏡頭、12 MP 超廣角、12MP 望遠 & LiDAR) + 自拍 (12 MP 原深感測)
 
-**作業系統**: iOS 27.0
+**作業系統**: iOS 27.0.1
 
 ### 手機 2
 
@@ -80,7 +80,7 @@ sidebar_position: 2
 
 **製造年份**: 2022 年中
 
-**晶片**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
+**晶片**: Google Tensor (2x2.8 GHz Cortex-X1、2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
 
 **顯示晶片**: Arm Mali-G78 MP20
 
@@ -88,37 +88,37 @@ sidebar_position: 2
 
 **儲存空間**: 128GB UFS 3.1
 
-**相機**: 後攝像 (12.2 MP 主鏡頭, 12 MP 超廣角) + 自拍 (8 MP)
+**相機**: 後攝像 (12.2 MP 主鏡頭 & 12 MP 超廣角) + 自拍 (8 MP)
 
 **作業系統**: Android 17
 
 ### 平板電腦
 
-**型號**: Apple iPad (10.2寸, 第八代, 2020) (A2270)
+**型號**: Apple iPad Pro 11 吋 (M5) Wi-Fi (A3357)
 
-**製造年份**: 2021 年初
+**製造年份**: 2026 年中
 
-**晶片**: Apple A12
+**晶片**: Apple M5 (3x4.6 GHz 超級核心 & 6x3.0 GHz 節能核心)
 
-**儲存空間**: 32GB 快閃記憶體
+**儲存空間**: 256GB NVMe 快閃記憶體
 
-**記憶體**: 4GB 2133 MHz LPDDR4X
+**記憶體**: 12GB LPDDR5X
 
-**相機**: 後攝像 (8 MP) + 自拍 (1.2 MP)
+**相機**: 後攝像 (12 MP & LiDAR) + 自拍 (12 MP 原深感測)
 
-**作業系統**: iPadOS 27.0
+**作業系統**: iPadOS 27.0.1
 
 ### 穿戴裝置
 
-**型號**: Xiaomi 手環 9 NFC (M2346B1)
+**型號**: Xiaomi 手環 11 NFC (M2617B1)
 
-**製造年份**: 2024 年中
+**製造年份**: 2026 年中
 
 **晶片**: 恒玄科技 BES2700iMP
 
-**儲存空間**: 256MB
+**儲存空間**: 512MB
 
-**作業系統**: Xiaomi HyperOS 2.3.98
+**作業系統**: Xiaomi HyperOS 4.200.078
 
 ## 單眼規格
 

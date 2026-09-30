@@ -12,7 +12,7 @@ This list is also available in a Linktree style (but I designed the website sinc
 
 **Discord**: [rhsu](https://discord.gg/sZmg77n5EC)
 
-**X**: [RaymondTheOof](https://x.com/RaymondTheOof)
+**X**: [itsrhsu](https://x.com/itsrhsu)
 
 **YouTube**: [RaymondHsu](https://www.youtube.com/@RaymondHsu)
 

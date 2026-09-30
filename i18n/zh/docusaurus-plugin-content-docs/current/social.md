@@ -12,7 +12,7 @@ sidebar_position: 3
 
 **Discord**: [rhsu](https://discord.gg/sZmg77n5EC)
 
-**X**: [RaymondTheOof](https://x.com/RaymondTheOof)
+**X**: [itsrhsu](https://x.com/itsrhsu)
 
 **YouTube**: [RaymondHsu](https://www.youtube.com/@RaymondHsu)
 

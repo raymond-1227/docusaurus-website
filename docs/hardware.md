@@ -8,24 +8,6 @@ Here are the computer and phone specs which I use every day.
 
 ## Computer Specs
 
-### Laptop
-
-**Model**: Acer Swift 16 AI (SF16-51-75BA)
-
-**Year of Manufacture**: Mid 2025
-
-**CPU**: Intel Core Ultra 7 258V
-
-**GPU**: Intel Arc 140V
-
-**RAM**: 32GB 8533 MHz LPDDR5X
-
-**Storage**: SK hynix Platinum P41 1TB + WD PC SN5000S 1TB
-
-**Webcam**: QHD IR camera (Built-in)
-
-**Operating System**: Windows 11 Pro 25H2
-
 ### Desktop
 
 **Model**: Apple iMac (Retina 5K, 27-inch, 2019) (A2115)
@@ -34,21 +16,39 @@ Here are the computer and phone specs which I use every day.
 
 **CPU**: Intel Core i5-8500
 
-**GPU**: AMD Radeon Pro 570X with 4GB GDDR5 Graphics Memory
+**GPU**: AMD Radeon Pro 570X (4GB GDDR5 VRAM)
 
-**RAM**: 40GB 2667 MHz DDR4 SO-DIMM (4GB x2 + 16GB x2)
+**RAM**: 40GB 2667 MHz SO-DIMM DDR4 (4GB x2 + 16GB x2)
 
-**Storage**: Fusion Drive 2TB + WD My Book HDD 4TB (For Time Machine)
+**Storage**: 2TB Fusion Drive + 4TB WD My Book External HDD (For Time Machine)
 
 **Webcam**: FaceTime HD Camera (Built-in)
 
-**Operating System**: macOS Sequoia 15.8
+**Operating System**: macOS Sequoia 15.8.1
+
+### Laptop
+
+**Model**: Acer Swift 16 AI (SF16-51-75BA)
+
+**Year of Manufacture**: Mid 2025
+
+**CPU**: Intel Core Ultra 7 258V
+
+**GPU**: Intel Arc 140V (16GB Dynamic Shared Memory)
+
+**RAM**: 32GB 8533 MHz LPDDR5X
+
+**Storage**: 1TB SK hynix Platinum P41 NVMe SSD + 1TB WD PC SN5000S NVMe SSD
+
+**Webcam**: QHD IR camera (Built-in)
+
+**Operating System**: Windows 11 Pro 26H2
 
 ### Computer Accessories
 
 **Keyboard**: Magic Keyboard (It's obvious that many Windows keyboards have different keymap compared to Mac ones, so I'm surely sticking to it)
 
-**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but it does has many useful gestures to use with, at least I think it does) / Logitech M110 Silent Corded Mouse / Logitech Signature Plus M750 L
+**Mouse**: Magic Mouse 2 (Surely people hate this a lot, but I personally like the gesture controls) / Logitech M110 Silent Corded Mouse / Logitech Signature Plus M750 L
 
 **Headset**: AKG K702 Reference Studio Headphones / Roland RH-A30 Monitor Headphones
 
@@ -62,17 +62,17 @@ Here are the computer and phone specs which I use every day.
 
 **Model**: Apple iPhone 15 Pro Max (A3106)
 
-**Year of Manufacture**: Late 2023
+**Year of Manufacture**: Mid 2023
 
-**Chipset**: Apple APL1V02 A17 Pro (2x3.78 GHz Performance & 4x2.11 GHz Efficient)
+**Chipset**: Apple A17 Pro (2x3.78 GHz P-core & 4x2.11 GHz E-core)
 
 **RAM**: 8GB LPDDR5
 
-**Storage**: 256GB NVMe
+**Storage**: 256GB NVMe Flash
 
-**Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto, LiDAR) + Selfie (12 MP TrueDepth)
+**Camera**: Rear (48 MP Main, 12 MP Ultra-Wide, 12MP Telephoto & LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iOS 27.0
+**Operating System**: iOS 27.0.1
 
 ### Phone 2
 
@@ -80,7 +80,7 @@ Here are the computer and phone specs which I use every day.
 
 **Year of Manufacture**: Mid 2022
 
-**Chipset**: Google Tensor (2x2.8 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
+**Chipset**: Google Tensor (2x2.8 GHz Cortex-X1, 2x2.25 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55)
 
 **GPU**: Arm Mali-G78 MP20
 
@@ -88,37 +88,37 @@ Here are the computer and phone specs which I use every day.
 
 **Storage**: 128GB UFS 3.1
 
-**Camera**: Rear (12.2 MP Main, 12 MP Ultra-Wide) + Selfie (8 MP)
+**Camera**: Rear (12.2 MP Main & 12 MP Ultra-Wide) + Selfie (8 MP)
 
 **Operating System**: Android 17
 
 ### Tablet
 
-**Model**: Apple iPad (8th generation, 2020) (A2270)
+**Model**: Apple iPad Pro 11-inch (M5) Wi-Fi (A3357)
 
-**Year of Manufacture**: Early 2021
+**Year of Manufacture**: Mid 2026
 
-**Chipset**: Apple A12
+**Chipset**: Apple M5 (3x4.6 GHz S-core & 6x3.0 GHz E-core)
 
-**Storage**: 32GB Flash Memory
+**Storage**: 256GB NVMe Flash
 
-**RAM**: 3GB 2133 MHz LPDDR4X
+**RAM**: 12GB LPDDR5X
 
-**Camera**: Rear (8 MP) + Selfie (1.2 MP)
+**Camera**: Rear (12 MP & LiDAR) + Selfie (12 MP TrueDepth)
 
-**Operating System**: iPadOS 27.0
+**Operating System**: iPadOS 27.0.1
 
 ### Wearable
 
-**Model**: Xiaomi Smart Band 9 NFC (M2346B1)
+**Model**: Xiaomi Smart Band 11 NFC (M2617B1)
 
-**Year of Manufacture**: Mid 2024
+**Year of Manufacture**: Mid 2026
 
 **Chipset**: Bestechnic BES2700iMP
 
-**Storage**: 256MB
+**Storage**: 512MB
 
-**Operating System**: Xiaomi HyperOS 2.3.98
+**Operating System**: Xiaomi HyperOS 4.200.078
 
 ## Camera Specs
 

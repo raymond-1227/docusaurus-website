@@ -163,7 +163,7 @@ Prestige 1 titles are previously known as record titles or even older as mastery
 | Pierce    | <GoldTitle>Peed in the pool</GoldTitle>   | <NeonTitle>Bad cop</NeonTitle>           |
 | Nori      | <GoldTitle>Katana Kid</GoldTitle>         | <NeonTitle>Gone Fishin'</NeonTitle>      |
 
-## Ultra Legendary Brawlers
+## Ultra Brawlers
 
 | Brawler | Prestige 1 Title                    | Prestige 3 Title                      |
 | ------- | ----------------------------------- | ------------------------------------- |
